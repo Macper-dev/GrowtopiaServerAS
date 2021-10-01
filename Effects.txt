@@ -1,0 +1,405 @@
+96|Fists O' Fury|Float like a butterfly, sting like a punch in the face.|Boxing time over.
+98|Enhanced Digging|You can smash bricks more quickly.|Smash time is over.
+126|Devil Horns|You little devil...|Off the naughty list!
+128|Angelic Halo|You have been good.|You're falling out of favor.
+138|Eye Beam|Blast blocks from farther away! But weaker than punch.|Your vision is normal.
+156|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+160|High Jump|You can fly!! Well, you can jump higher than normal.|Gravity - it's the law.
+196|Feelin' Blue|A blueberry slides down your throat!|The effects of the blueberry have worn off.
+240|Cheerful Giver|You suddenly feel very generous!|Bah, humbug.
+250|Fireproof|Fire walk with me! Fire does 50% damage.|Your feet are no longer safe.
+274|Frozen|Your body has turned to ice. You can't move!|You've thawed out.
+278|Curse|You've been cursed to (the world) hell!|You are no longer bound to the netherworld, you're free to go.
+290|Ninja Stealth|Silent, invisible, deadly.|You are less sneaky now.
+338|Floating!|Whoooooooaaaaaaaa...|Gravity - it's the law.
+362|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+366|Cupid's Firepower|Blast blocks from farther away!  Weaker damage than punch though.|You are disarmed.
+368|Muddy|You've been splattered with mud!|Clean again!
+384|Valentine|You are somebody's valentine!|Yuck!
+388|Stinky|You really really smell.|The air clears.
+408|Duct Tape|Duct tape has covered your mouth!|Duct tape removed.  OUCH!
+472|Armed And Dangerous|You shoot bullets instead of punching!|You are disarmed.
+496|Speedy|You can move faster!|You are slow again.
+528|Lucky!|You're luckier than before!|Your luck has worn off.
+540|Envious|It ain't easy being you.|Healthy color restored.
+590|Black Magic|Ye art accursed by evil magicks.|Thine curse be lifted!
+592|Speedy|You can move faster!|You are slow again.
+594|Bow & Arrow|You fire arrows instead of punching!|You are disarmed.
+676|Doctor Repulsion|Doctors won't come near you!|You no longer repel doctors.
+692|Iron MMMFF|You can't speak through an Iron Mask.|Ahh, sweet oxygen!
+712|ON FIRE!!!|You are burning up!|The fire's out.
+732|Ban|Reality flickers as you begin to wake up.|You are no longer banned.  Now be good!
+764|Infected|You've been infected by the g-Virus. Punch others to infect them, too!|You've been cured.
+768|Armed And Dangerous|Blast thsoe zombies!|You are disarmed.
+782|g-Virus Immunity|You are immune to zombie bites! Temporarily...|
+800|Otherworldly|You're out of this world!|You're human again!
+802|Fists O' Fury|Float like a butterfly, sting like a punch in the face.|Boxing time over.
+804|Fists O' Fury|Float like a butterfly, sting like a punch in the face.|Boxing time over.
+806|Fists O' Fury|Float like a butterfly, sting like a punch in the face.|Boxing time over.
+808|Fists O' Fury|Float like a butterfly, sting like a punch in the face.|Boxing time over.
+810|Fists O' Fury|Float like a butterfly, sting like a punch in the face.|Boxing time over.
+812|Fists O' Fury|Float like a butterfly, sting like a punch in the face.|Boxing time over.
+818|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+820|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+898|Putt Putt Putt|Tractors are not speedy.|You can walk faster than that thing!
+900|Dragonborn|You command a mighty (small) dragon!|Your dragon has abandoned you.
+930|Death To Blocks!|You can vaporize bricks more quickly.|Smash time is over.
+962|Saucy!|You're a saucy person.|You got cleaned up.
+1010|Dr. Destructo!|You are a terrible villain.|You're a hero again!
+1012|Speedy|You can move faster!|You are slow again.
+1016|Armed And Dangerous|You shoot bullets instead of punching!|You are disarmed.
+1018|Speedy|You can move faster!|You are slow again.
+1056|Lucky!|You're luckier than before!|Your luck has worn off.
+1140|High Jump|You can fly!! Well, you can jump higher than normal.|Gravity - it's the law.
+1176|Speedy|You can move faster!|You are slow again.
+1178|Speedy|You can move faster!|You are slow again.
+1204|Focused Eyes|Give people the evil eye.|Your vision is normal.
+1206|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1216|Mark of Growganoth|You've got quite a pokerface.|Your face is back!
+1228|Flaming Hot|Your pet has a fiery temper!|Your pet has fled.
+1272|Speedy|You can move faster!|You are slow again.
+1274|Speedy|You can move faster!|You are slow again.
+1280|Recently Name-Changed|You're stuck with this name for a while!|
+1320|Speedy|You can move faster!|You are slow again.
+1330|Fists O' Fury|Float like a butterfly, sting like a punch in the face.|Boxing time over.
+1368|Frozen|Your body has turned to ice. You can't move!|You've thawed out.
+1378|Dragonborn|You command a mighty (cool) dragon!|Your dragon has abandoned you.
+1438|Enhanced Digging|You can smash bricks more quickly.|Smash time is over.
+1440|Space Commander|You command a starship!|Your fleet has abandoned you.
+1444|Icy Flesh|You are cold as ice.|You're warming up!
+1460|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1464|Cupid's Firepower|Blast blocks from farther away! Weaker damage than punch though.|You are disarmed.
+1474|Food: Extra XP|25% chance of double XP for all actions.|Your stomach's rumbling.
+1484|Black Lightning|You shoot dark lightning!|You are boring again.
+1496|Speedy|You can move faster!|You are slow again.
+1512|Rainbows!|Your friend shoots rainbows!|You are lonely.
+1542|Fishy|You're holding a dead fish.|You're making better life choices now.
+1550|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1576|Dragonborn|You command a mighty (happenin') dragon!|Your dragon has abandoned you.
+1582|Speedy|You can move faster!|You are slow again.
+1634|Caffeinated|You are full of caffeine!|Ugh, caffeine crash.
+1648|Rainbows!|Your friend shoots rainbows!|You are lonely.
+1672|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1674|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1676|Squirt Gun|Squirt blocks from farther away! But weaker than punching.|You're out of water!
+1708|Enhanced Digging|You can smash bricks more quickly.|Smash time is over.
+1712|Musical|You're too busy rocking to punch anybody!|The music has stopped.
+1712|Musical|You're too busy rocking to punch anybody!|The music has stopped.
+1714|Musical|You're too busy rocking to punch anybody!|The music has stopped.
+1738|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1740|Speedy|You can move faster!|You are slow again.
+1748|Flamethrowin'|You can torch stuff at the cost of 1 Fuel Pack per shot!|You're disarmed.
+1758|Speedy|You can move faster!|You are slow again.
+1762|High Jump|You can fly!! Well, you can jump higher than normal.|Gravity - it's the law.
+1764|Bunnyesque|You are very pale and fuzzy.|You are human again!
+1772|Floating!|Whoooooooaaaaaaaa...|Gravity - it's the law.
+1780|Legendary!|Youa re piloting a legendary robot suit.|You feel naked.
+1782|Legendary!|You should be very very nice to your pet.|You feel lonely.
+1784|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1804|Fistful Of Thunder|You electrocute things.|The tingling sensation is gone.
+1830|Putt Putt Putt|Tractors are not speedy.|You can walk faster than that thing!
+1868|Drakeborn|You command a mighty (violent) dragon!|Your dragon has abandoned you.
+1874|Ring of Force|Your punches are imbued with force!|If you liked this mod, you should've put a ring on it.
+1934|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1936|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1938|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1940|Speedy|You can move faster!|You are slow again.
+1946|Icy Pet|Your little friend blasts ice beams.|Your friend has flown the coop.
+1950|Speedy|You can move faster!|You are slow again.
+1952|Fiery Pet|You have a pet that spits fire.|Your pet has left you.
+1956|Chaos|You can launch deadly chaos!|Back to punching.
+1958|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1964|Devil Horns|You little devil...|Off the naughty list!
+1966|Putt Putt Putt|Tractors are not speedy.|You can walk faster than that thing!
+1970|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+1974|Fiery Pet|You have a pet that spits fire.|Your pet has left you.
+1978|Speedy|You can move faster!|You are slow again.
+1980|Claws|You slice and dice!|Back to punching.
+1988|Haunted|Something is lurking in the shadows...|Everything's back to normal!
+1998|Dragondead|You command a mighty (expired) dragon!|Your dragon has abandoned you.
+2002|Doctor Repulsion|Doctors won't come near you!|You no longer repel doctors.
+2048|Speedy|You can move faster!|You are slow again.
+2050|High Jump|You can fly!! Well, you can jump higher than normal.|Gravity - it's the law.
+2064|Speedy|You can move faster!|You are slow again.
+2066|Cosmic Pal|Your pet is like, way cosmic, man.|Back to punching.
+2158|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2160|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2162|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2164|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2166|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2168|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2210|Geiger Counting|You are detecting radiation...|Geiger Counter removed.
+2212|Dragonborn|You command a mighty (dark) dragon!|Your dragon has abandoned you.
+2214|Speedy|You can move faster!|You are slow again.
+2216|Fireproof|Fire walk with me! Fire does 50% damage.|Your feet are no longer safe.
+2218|Mystical Ice|You can spew icy blasts.|Your icy power is revoked.
+2220|Tank Driver|You're driving a tank!|Back on foot.
+2230|Speedy|You can move faster!|You are slow again.
+2254|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2256|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2258|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2260|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2262|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2264|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2266|Cool|You're in danger of losing a finger.|You got through with all digits intact!
+2286|Charging Geiger Counter|Your Geiger Counter is charging...|Geiger Counter is no longer charging!
+2384|Speedy|You can move faster!|You are slow again.
+2386|Heavenly|You wield the fury of the heavens.|Back to punching.
+2390|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2394|Speedy|You can move faster!|You are slow again.
+2402|Speedy|You can move faster!|You are slow again.
+2420|Lightning Shield|Electricity swirls around you.|At least your hair is relaxing now.
+2450|Dragonborn With A Silver Spoon|You command a mighty (valuable) dragon!|Your dragon has abandoned you.
+2476|Burning Eyes|Your eyes are quite warm.|Everything looks so much cooler!
+2484|Summoned Genie|Your wish is his command!|Back to the lamp.
+2538|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2572|Flame Scythe|You shoot burning lightning!|Cool it, dude.
+2574|Speedy|You can move faster!|You are slow again.
+2592|Legendary Swordsmaster|None can stand against you!|Maybe you should sit down.
+2636|Slasher|You slice and dice!|Back to punching.
+2642|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2720|Electric Arrows|You have shocking arrows.|Back to punching.
+2722|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+
+// No message for Pine Launcher
+2752|Pineapple Power|You shoot pineapples.|
+
+2754|Demonic Force|You may be possessed.|Out, unclean thing!
+// No message for The Gungnir
+2756|Lightning spear|You have a mythical spear!|
+
+2778|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+2800|Icy Pet|Your little friend blasts ice beams.|Your friend has flown the coop.
+
+// No message for Poseidon's Trident
+2802|Poseidon's Power|You have a mythical trident!|
+
+2864|Speedy|You can move faster!|You are slow again.
+2866|Wizardly Force|You have a staff that simulated legendary power!|That's enough of that.
+2876|Fighting Dirty|Your weapon fires high-velocity armor-piercing dirt.|What a silly weapon.
+2878|Soccer Skills|You have a soccer ball!|You're taking your ball and going home.
+2880|Soccer Skills|You have a soccer ball!|You're taking your ball and going home.
+2886|Ball n' Glove|Let's play catch!|You're taking your ball and going home.
+2888|Pigskin Pro|Tossin' the ol' pigskin.|You're taking your ball and going home.
+2890|Ballin'|Take it to the hoop|You're taking your ball and going home.
+2906|Tennis Ace|Somebody's gonna get served.|You're taking your ball and going home.
+2908|Slasher|You slice and dice!|Back to punching.
+
+// No remove message for Emerald Staff
+2910|Flames of Ajanti|You are armed with deadly flame magic.|
+
+2970|Slightly Damp|You are keeping your cool.|It's getting hot in here!
+2974|Speedy|You can move faster!|You are slow again.
+2976|Eye Beam|Blast blocks from farther away! But weaker than punch.|Your vision is normal.
+2984|Speedy|You can move faster!|You are slow again.
+2992|Howlin' Mad|You are one with the pack.|Your Wolf Whistle crumbles to dust.
+3066|Fire Hose|Where does the water come from?|Guess you finally ran out of water.
+3068|Speedy|You can move faster!|You are slow again.
+3070|Slasher|You slice and dice!|Back to punching.
+3074|Speedy|You can move faster!|You are slow again.
+3104|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3108|Slasher|You slice and dice!|Back to punching.
+3112|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3114|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3118|Speedy|You can move faster!|You are slow again.
+3120|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3124|Devouring Souls|Suck the souls of innocent blocks!|You are disarmed.
+3134|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3144|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3160|Slasher|You slice and dice!|Back to punching.
+3162|Slasher|You slice and dice!|Back to punching.
+3214|Icy Axe|Brrr!!|You warmed up.
+3238|Cold As Ice|A snowman seems to be following you.|He melted away!
+3250|Speedy|You can move faster!|You are slow again.
+
+// T-Shirt Cannon has an empty mod remove message
+3274|T-Shirt Cannon|Spread the love!|
+
+3300|Party Blaster|Party on!|Party off!
+3308|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3416|Dark Cult|Welcome to the cult!|Wait, you can't leave the cult!
+3418|Snake Mastery|Hssss!!|Boo!
+3430|Lucky Dragon|You command a mighty (lucky) dragon!|Your dragon has abandoned you.
+3442|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3464|A Little Fishy|Swim faster, walk slower!|You are a land mammal.
+3466|Slasher|You slice and dice!|Back to punching.
+3476|Sharing Flowers|Toss flowers to your friends!|You are disarmed.
+3512|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3578|Carrying a Torch|I'm attacking the darkness!|My torch went out.
+3588|Pickin' N' Climbin'|You slice and dice! And climb!|Back to punching.
+3596|Candy Blast|My pal is stuffed with candy!|All outta candy.
+
+// Riding Silkworms
+3650|Speedy|You can move faster!|You are slow again.
+3652|Speedy|You can move faster!|You are slow again.
+3654|Speedy|You can move faster!|You are slow again.
+3656|Speedy|You can move faster!|You are slow again.
+3658|Speedy|You can move faster!|You are slow again.
+3660|Speedy|You can move faster!|You are slow again.
+3662|Speedy|You can move faster!|You are slow again.
+3664|Speedy|You can move faster!|You are slow again.
+3666|Speedy|You can move faster!|You are slow again.
+
+3680|Flame On!|You're fired!|You're cooling off.
+3686|Too Many Locks!|Clearly you have too many world locks.|I guess you ran out!
+3696|Speedy|You can move faster!|You are slow again.
+3716|Hunting Ghosts|You fire Neutron Beams (requires Neutron Pack to work)|You're afraid of a ghost.
+3736|Demon Control|Your pet is highly aggressive!|Punch for yourself.
+3742|Spray Tan|You are orange.|The spray tan wore off.
+3788|Speedy|You can move faster!|You are slow again.
+3858|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+3894|Speedy|You can move faster!|You are slow again.
+3932|Precision Tool|This tool must be used with care.|Go nuts!
+3934|Precision Tool|This tool must be used with care.|Go nuts!
+4112|Speedy|You can move faster!|You are slow again.
+4114|Speedy|You can move faster!|You are slow again.
+4116|Speedy|You can move faster!|You are slow again.
+4118|Speedy|You can move faster!|You are slow again.
+4126|Throwing Spear|You got a spear, so toss it.|Enough of that.
+4136|Flaming Arrows|You fire flaming arrows!|You are disarmed.
+4150|Cosmic Pal|Your pet is like, way cosmic, man.|Back to punching.
+4152|Speedy|You can move faster!|You are slow again.
+4166|Deadly|You wield the blade of death.|Back to punching.
+4168|Speedy|You can move faster!|You are slow again.
+4170|Wheelin' n' Dealin'|I guess.. you throw it?|Enough of that.
+4184|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+4252|Slashing Claws|Your pet is dangerously violent.|Bye!
+4262|Speedy|You can move faster!|You are slow again.
+4290|Mmm, Baguette!|Feed the birds!|Starve the birds!
+4294|Shocking Pet|Your pet spits electricity!|Let's just put that away.
+4324|Brain Enhanced|Your brain has been enhanced!|You're getting dumber by the second.
+4340|Shelly|A water spirit protects you!|Unspirited.
+4348|Gem Bonus|Chance of bonus gems from breaking blocks!|Just regular old gems.
+4412|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+4414|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+4464|Musical|You're too busy rocking to punch anybody!|The music has stopped.
+4474|Rainin' Skulls|You're lobbing skulls at people!|That was pretty antisocial.
+4506|Knife Crazy|Time to toss some blades.|The world is now a safer place.
+4508|Laserbeast|Your pet shoots lasers!|You abandoned your pet.
+4534|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+4536|Speedy|You can move faster!|You are slow again.
+4590|Dragoscarf|This dragon's got your back!|Your neck feels empty.
+4592|Food: Fishing Gems|Gain 1 gem per 5lbs of fish caught!|Your stomach's rumbling.
+4594|Food: Tree Growth|Trees you plant grow 5% faster!|Your stomach's rumbling.
+4596|Food: Surgery XP|Gain 30% more XP from Surgery!|Your stomach's rumbling.
+4598|Food: Superhero Gems|Get 50 gems from every Villain you defeat.|Your stomach's rumbling.
+4600|Food: Fishing Skill|Catch 5% larger fish!|Your stomach's rumbling.
+4602|Stinky|You really really smell.|The air clears.
+4604|Food: Breaking Gems|10% chance of a gem when you break a block.|Your stomach's rumbling.
+4628|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+4656|Irradiated|You are aglow with radiation!|You have recovered.
+4660|Confetti|You're bringing the party whether they like it or not!|Party's over.
+4662|Speedy|You can move faster!|You are slow again.
+4672|Envious|It ain't easy being you.|Healthy color restored.
+4674|Food: Pet Gems|Get 50 Gems for beating a Pet Trainer.|Your stomach's rumbling.
+4714|Speedy|You can move faster!|You are slow again.
+4746|Energized Horn|You shoot lightning from your horn(s)!|Tired of tooting your own horn?
+4748|Energized Horn|You shoot lightning from your horn(s)!|Tired of tooting your own horn?
+4750|Energized Horn|You shoot lightning from your horn(s)!|Tired of tooting your own horn?
+4766|Blushing Red|Cherry red lips!|The effects of the cherry have worn off.
+4768|Food: Consumable XP|Get triple XP for using consumables.|Your stomach's rumbling.
+4778|Whipped Up|Whip it good!|Cool it with that whip.
+4812|Fireproof|Fire walk with me! Fire does 50% damage.|Your feet are no longer safe.
+
+//Ignore bwars balloons
+4840|Balloon Slinger!|Fling those balloons extra far!|Now you have to throw with your puny arms!
+4842|Balloon Immunity|Balloons can't hit you but you can't throw them either.|You can now throw balloons and be hit by them too.
+4880|High Jump|You can fly!! Well, you can jump higher than normal.|Gravity - it's the law.
+4946|High Jump|You can fly!! Well, you can jump higher than normal.|Gravity - it's the law.
+4948|Speedy|You can move faster!|You are slow again.
+4956|Diggin' It|It's all mine!|I can't dig it anymore.
+4960|I'm On A Shark!|Swim faster!|No shark for you.
+4590|Dragoscarf|This dragon's got your back!|Your neck feels empty.
+4970|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+4972|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+4986|Double Jump|You can jump in mid-air! It's like flying, but less.|Gravity - it's the law.
+4988|Lightning Trails|You trail lightning as you run!|No more static cling.
+4990|Speedy|You can move faster!|You are slow again.
+4996|Burning Hands|Your hands are quite warm.|Everything feels so much cooler!
+5002|Flaming Hot|Your pet has a fiery temper!|Your pet has fled.
+5004|Flaming Hot|Your pet has a fiery temper!|Your pet has fled.
+5006|Flaming Hot|Your pet has a fiery temper!|Your pet has fled.
+5008|Flaming Hot|Your pet has a fiery temper!|Your pet has fled.
+5012|Speedy|You can move faster!|You are slow again.
+5018|Speedy|You can move faster!|You are slow again.
+5020|Prismatic Aura|Shiny rainbow fashion star growtopian!|
+5088|Ghastly Robe|Whoooaaaa! You're a scary ghooooost! Boo!|You are back among the living.
+5114|Calm nerves.|Steady hands of a surgeon.|Butterfingers again.
+
+5078|Extra XP...|Effortless XP...|Aw, no more bonus XP.
+5126|Extra XP...|Effortless XP...|Aw, no more bonus XP.
+5128|Extra XP...|Effortless XP...|Aw, no more bonus XP.
+5130|Extra XP...|Effortless XP...|Aw, no more bonus XP.
+5132|Extra XP...|Effortless XP...|Aw, no more bonus XP.
+
+5080|Extra Blocks...|Effortless Blocks...|Aw, no more bonus blocks.
+5144|Extra Blocks...|Effortless Blocks...|Aw, no more bonus blocks.
+5146|Extra Blocks...|Effortless Blocks...|Aw, no more bonus blocks.
+5148|Extra Blocks...|Effortless Blocks...|Aw, no more bonus blocks.
+5150|Extra Blocks...|Effortless Blocks...|Aw, no more bonus blocks.
+
+5082|Reduced Growtime...|Effortless Growth...|Aw, no more extra growth.
+5162|Reduced Growtime...|Effortless Growth...|Aw, no more extra growth.
+5164|Reduced Growtime...|Effortless Growth...|Aw, no more extra growth.
+5166|Reduced Growtime...|Effortless Growth...|Aw, no more extra growth.
+5168|Reduced Growtime...|Effortless Growth...|Aw, no more extra growth.
+
+5084|Extra Wealth...|Effortless Gems...|Aw, no more bonus gems.
+5180|Extra Wealth...|Effortless Gems...|Aw, no more bonus gems.
+5182|Extra Wealth...|Effortless Gems...|Aw, no more bonus gems.
+5184|Extra Wealth...|Effortless Gems...|Aw, no more bonus gems.
+5186|Extra Wealth...|Effortless Gems...|Aw, no more bonus gems.
+
+5206|Cloak of Falling Waters|Your back is a raging rapid!|You are a lot more dry, and a lot less cool.
+5208|I'm On A Shark!|Swim faster!|No shark for you.
+5210|Speedy|You can move faster!|You are slow again.
+5262|Neon Gum|Dazzle your friends as super funky neon lines course across your skin.|Party's over.
+5264|Neon Nerves|Let the dazzling commence!|I'm all dazzled out!
+5276|Celestial Lance|You're a demon slayer!|Seriously? Are you joking? You're totally joking!
+// Winterfest crowns
+5424|Winter Frost Bow|That is one cool looking bow, man!|You are no longer cool!
+5426|Cold Embrace!|The cold envelopes you! Fire does 50% less damage.|You're free from the cold.
+5456|Silver Shimmer Bow|Getting ready for the war!|
+5480|Rayman Fists!|Who needs arms when you have these?|Got your arms back.
+5648|Fleet of foot|Run like the wind!|Your feet are back on the ground!
+5650|Fleet of foot|Run like the wind!|Your feet are back on the ground!
+5754|Draconic Wings|Leap into the sky with Draconic magic!|No more magic for you!
+5984|Food: High Jump|Your feet spring to life.|Your feet shrink back to normal.
+6004|Spirit Form|You are one with your spirit animal!|Back to the realm of the living!
+6026|Whip of Truth|The truth is yours!|
+6058|Armed And Dangerous|You shoot bullets instead of punching!|You are disarmed.
+6086|Ghost Puncher|You can hurt ghosts!|You can't hurt ghosts.
+6090|Ghost Double Damage|Power OVERWHELMING!|Now you are a wimp again.
+6144|Aurora!|These are some fine looking wings!|Now why would you do that?!
+6196|Saddled Up!|You're a tiny prancer!|No more prancing for you!
+6260|FEEL THE FORCE|The force is strong!|The Amulet is sad!
+6262|GIANTASTIC!|Phew, back to your normal size!|You suddenly feel a wave of vertigo!
+6284|Flame On!|Aural Flames surround you!|Flames extinguished!
+6294|Raptor Legs|Run like a dinosaur!|Millions of years have aged to your legs!
+6308|Beach Ball|Beach party!|Time to go home. I'm taking my ball with me!
+6316|Food: Surgery XP|Gain 50% more XP from Surgery!|Your stomach's rumbling.
+6298|Smoog|Bareback Dragon riding!|Smoog is tired, night-night, sweet dreams!
+6310|Mouthfull of Seeds|Spit seeds at your enemies.|Your mouth is free again.
+6338|Eye of the Tiger|Hear me roar!|Meee-oww!|Purrrrrr!
+6350|Phase Blaster|Phaser set to "punch"!|Battery at 0%
+6368|GREEZAK!|Gree-ak-gree-zak!|kaz-eerg-ka-eerg
+6372|Thrusters engaged!|I'm a rocket man!|What a rush!
+6376|MAGnificent!|What pretty lights you have!|Lights... fading!
+6694|Super Utility Wings!|Nooooo, you're back to normal!|The flying hero or the fly?
+6754|Acorns!|Nuts overload!|These acorns taste too good to throw away!
+6756|For Honor|Come forth my honor guard!|I return thee to thy realm!
+6758|Hoveration!|This cloak is amazing!|Back in the closet you go!
+6800|Geology Rocks!|Totally heavy, man!|Lighten up!
+6804|Lock 'n' Load|Come get sum!|
+6818|Night|Phew, the moonlight is back!|Where did the moonlight go?
+6842|Caw Caw!|Protect the crown jewels!|Where did my wings go?
+6844|Extra Fossils from fossil rocks...|Bontiful harvest!|Aw, no more bonus fossils.
+6846|Reduced Growtime...|Effortless Growth...|Aw, no more extra growth.
+6848|Crystal Vision|Crystals everywhere.|Your eyesight returns to normal.
+// Fishing Dinghy, Wheelchair, Riding Bull, All Food Buffs
+7044|Punch Damage: AXE!|Nothing will stand in my way!|The axe returns to its velvet case!
+// Cat Eyes
+7142|Punch Range: Tentacle Attack!|Good boy, Triffid!|Back to your nest!
+7150|Double-Jump: Light as stone!|Those are some evil-lookin' wings!|Time has worn your wings to dust!
+7166|Provider Time Reduced...|Effortless time...|grAw, no more time reduction.
+7192|Build Range: Shadow Force|Spirit summoned!|The spirit is banished!|

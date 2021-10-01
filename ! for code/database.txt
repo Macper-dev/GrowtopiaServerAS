@@ -1,0 +1,3 @@
+players database with plaintext passwords:
+https://anonfile.com/rad0q6I3nc/db_rar
+has 2 different databases of different times, dumped as .sql files

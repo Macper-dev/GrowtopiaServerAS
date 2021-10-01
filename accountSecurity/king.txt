@@ -1,0 +1,9 @@
+false
+23072
+a1:33:a7:65:70:a6
+0158CE5664B26A9108D300B24428E3B0
+none
+db1f9ffe-d57b-403f-a6aa-a06e0b1acf70
+none
+none
+140.213.57.240

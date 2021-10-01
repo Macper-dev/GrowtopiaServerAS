@@ -1,0 +1,45 @@
+Weather ID :
+1: Beach Blast
+2: Night
+3: Arid
+4: Sunny
+5: Rainy
+6: Harvest Moon 
+7: Mars
+8: Spooky
+9: Growganoth
+10: Nothingness
+11:Snowy
+12: Angry Growch
+13: Happy Growch
+14: Undersea 
+15: Warp Speed
+16: Night of the Comet
+17: Comet 
+18: PARTY!
+19: Pineapple
+20: Snowy Night
+21: Spring
+22: Howl
+23: Sunny 
+24: Heatwave (PURPLE)
+25: Heatwave (RED)
+26: Heatwave (GREEEN)
+27: Heatwave (BLUE)
+28: Heatwave (ORANGE)
+29: Stuff
+30: Pagoda
+31: Apocalypse
+32: Jungle
+33: Balloon
+34: Background
+35: Autumn
+36: Valentine's
+37: St. Paddy's
+38: Epoch (ICE)
+39: Epoch (VOLCANO)
+40: Epoch (LAND)
+41: Sunny
+42: Digital Rain
+43: Monochrome
+44: Frozen Cliffs

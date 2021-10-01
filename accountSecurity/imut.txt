@@ -1,0 +1,9 @@
+false
+regha
+02:00:00:00:00:00
+01438C2287FFA50B0A5DD9329405AE30
+none
+eba1ab52-42b2-49e7-b92f-b3f848e61b48
+none
+none
+182.1.117.122

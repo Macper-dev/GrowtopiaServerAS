@@ -1,0 +1,6 @@
+add_textbox|`11`0. `5test `0( `1rizkyones`0 )|left|100|
+add_textbox|`11`0. `5test `0( `1rizkyones`0 )|left|100|
+add_textbox|`22`0. `5test `0( `2rizkyones`0 )|left|100|
+add_textbox|`22`0. `5test `0( `2rizkyones`0 )|left|100|
+add_textbox|`33`0. `5test 123 `0( `3rizkyones`0 )|left|100|
+add_textbox|`33`0. `5test 123 `0( `3rizkyones`0 )|left|100|

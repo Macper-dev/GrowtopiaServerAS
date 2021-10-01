@@ -1,0 +1,45 @@
+///////////////////////////
+/////CONSUMMING RECIPES////
+///////////////////////////
+
+//BASE ID|ID MATERIAL|COUNT|MESSAGE ON USE|EXTRA ITEM CHANCE ID
+
+1150|CONSUME|1152|10|Threre's just not enough DNA here to make anything. Get more!|
+1190|CONSUME|1212|25|There's just not enough fur here to make anything. Get more!|
+1206|CONSUME|1234|4|There aren't enough wings to make anything. Get more!|
+1512|CONSUME|1510|10|The legend says you need 10 blarney pebbles!|
+1998|CONSUME|2000|10|There aren't enough bones here to make anything. Get more!|
+2035|CONSUME|2034|100|The dust is still whirling. It needs more matter to coalesce!|
+2037|CONSUME|2036|100|The dust is still whirling. It needs more matter to coalesce!|
+2284|CONSUME|2288|100|There's just not enough here to start a party. Get more!|
+2282|CONSUME|2290|100|There's just not enough here to start a party. Get more!|
+528|CONSUME|2412|4|It takes four leaves for a clover to be lucky.|
+2408|CONSUME|2410|200|The shards wiggle violently, but can't quite combine.|
+1166|CONSUME|3110|25|You need 25 tatters to make a cape!|3112
+3120|CONSUME|3122|4|There aren't enough fragments here to make anything. Get more!|
+
+3336|CONSUME|3318|100|There aren't enough threads here to make a bolt. Get more!|
+3338|CONSUME|3320|100|There aren't enough threads here to make a bolt. Get more!|
+3340|CONSUME|3322|100|There aren't enough threads here to make a bolt. Get more!|
+3342|CONSUME|3324|100|There aren't enough threads here to make a bolt. Get more!|
+3344|CONSUME|3326|100|There aren't enough threads here to make a bolt. Get more!|
+3346|CONSUME|3328|100|There aren't enough threads here to make a bolt. Get more!|
+3348|CONSUME|3330|100|There aren't enough threads here to make a bolt. Get more!|
+3350|CONSUME|3332|100|There aren't enough threads here to make a bolt. Get more!|
+3352|CONSUME|3334|100|There aren't enough threads here to make a bolt. Get more!|
+
+3892|CONSUME|3890|100|There isn't enough wool here to make a bolt. Get more!|
+4234|CONSUME|4236|10|You'll need more shards!|
+4428|CONSUME|4426|200|The shards wiggle violently, but can't quite combine.|
+4491|CONSUME|4490|200|Cells are very small. You'll need more!|
+5234|CONSUME|5256|100|You'll need more pumpkins than that!|
+5528|CONSUME|5626|50|You'll need more chunks than that!|
+5528|CONSUME|5628|25|You'll need more chunks than that!|
+5528|CONSUME|5630|10|You'll need more chunks than that!|
+
+5526|CONSUME|5632|50|You'll need more bits than that!|
+5526|CONSUME|5634|25|You'll need more bits than that!|
+5526|CONSUME|5636|10|You'll need more bits than that!|
+5642|CONSUME|5662|100|The dust stirs but needs more dust to do anything!|
+7142|CONSUME|7140|50|They'll be no wriggling without enough tentacles!|
+

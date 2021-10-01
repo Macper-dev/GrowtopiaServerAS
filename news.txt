@@ -1,0 +1,23 @@
+set_default_color|`c
+
+add_label_with_icon|big|`bGTAS Private Server``|left|5016|
+add_spacer|small|
+add_smalltext|`cWelcome to GTAS!|
+add_spacer|small|
+add_textbox|`3Roles for extra commands can be bought from `#Play, Ayoyo, HyperCold or CantFind`3 in our discord server!|
+add_textbox|`3We accept payments via DLS(Diamond Locks) or Paypal (more ways will be added soon), prices and more info on GTAS Discord Server's channel #ranks!|
+add_textbox|`3dm Play#0001, HyperCold#4444 or CantFind#0001 if you need any more info about server or something else.|
+add_spacer|small|
+add_url_button|comment|`#GTAS Discord``|noflags|https://discord.gg/Hq2ttmPfXU|`#GTAS Discord's Official Server|0|0|
+add_url_button|comment|`#HyperCold (developer)``|noflags|https://www.youtube.com/channel/UC3ueayg4BhT_bNXimsneFMQ|`eHyperCold#4444's channel!|0|0|
+add_url_button|comment|`#Play (developer)``|noflags|https://www.youtube.com/channel/UCX9d8ONSqqbCygGPfkl2J8A|`ePlay#0001's channel!|0|0|
+add_url_button|comment|`#Ayoyo (developer)``|noflags|https://www.youtube.com/channel/UCroIYNWGAvZef5TG8ugcHhQ|`eAyoyo#0042's channel!|0|0|
+add_url_button|comment|`#CantFind (developer)``|noflags|https://www.youtube.com/channel/UC9QbagB6W-JMv5KNmHF2OOw|`eCantFind#0001's channel!|0|0|
+add_spacer|big|
+add_textbox|`o- `3Added Old Growtopia store.|
+add_textbox|`o- `3Added giving item panel for owners.|
+add_textbox|`o- `3Fixed bugs.
+add_spacer|small|
+add_textbox|`o- The GTAS Server Team.|
+add_quick_exit|\n
+end_dialog|gazette||`oClose|

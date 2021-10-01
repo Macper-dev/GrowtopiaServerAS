@@ -1,0 +1,8 @@
+add_textbox|`11`0. `5hi `0( `1imtomrux`0 )|left|100|
+add_textbox|`11`0. `5hi `0( `1imtomrux`0 )|left|100|
+add_textbox|`22`0. `5u got `4banned `0( `2imtomrux`0 )|left|100|
+add_textbox|`22`0. `5u got `4banned `0( `2imtomrux`0 )|left|100|
+add_textbox|`11`0. `5U have Banned From `4759`0 days `0( `1imtomrux`0 )|left|100|
+add_textbox|`11`0. `5U have Banned From `4759`0 days `0( `1imtomrux`0 )|left|100|
+add_textbox|`22`0. `5. `0( `2imtomrux`0 )|left|100|
+add_textbox|`22`0. `5. `0( `2imtomrux`0 )|left|100|

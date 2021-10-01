@@ -1,0 +1,6 @@
+add_textbox|`11`0. `5Anjay  `0( `1rizkyones`0 )|left|100|
+add_textbox|`11`0. `5Anjay  `0( `1rizkyones`0 )|left|100|
+add_textbox|`22`0. `5Anjay `0( `2rizkyones`0 )|left|100|
+add_textbox|`22`0. `5Anjay `0( `2rizkyones`0 )|left|100|
+add_textbox|`33`0. `5anjay banget  `0( `3rizkyones`0 )|left|100|
+add_textbox|`33`0. `5anjay banget  `0( `3rizkyones`0 )|left|100|

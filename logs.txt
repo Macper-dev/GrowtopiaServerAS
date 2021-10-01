@@ -1,0 +1,3002 @@
+﻿tankIDName|HyperCold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|refresh_item_data
+ 127.0.0.1
+tankIDName|HyperCold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+reconnect|1
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+tankIDName|HyperCold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|prostores
+
+ 127.0.0.1
+tankIDName|HyperCold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|/omg 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|now 127.0.0.1
+action|input
+|text|200iq 127.0.0.1
+action|input
+|text|skom 127.0.0.1
+action|input
+|text|:torll 127.0.0.1
+action|input
+|text|(troll) 127.0.0.1
+action|input
+|text|/torll 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|input
+|text|(troll) 127.0.0.1
+action|input
+|text|aa 127.0.0.1
+action|input
+|text|aaa 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|eventmenu
+ 127.0.0.1
+action|friends
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|backonlinelist
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|
+
+ 127.0.0.1
+action|input
+|text|/rate 5 127.0.0.1
+tankIDName|HyperCold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|/rate  127.0.0.1
+action|input
+|text|/rate 5 127.0.0.1
+action|input
+|text|/rate 127.0.0.1
+action|input
+|text|/rate 2342131 127.0.0.1
+action|input
+|text|/rate 0 127.0.0.1
+action|input
+|text|/omg 127.0.0.1
+action|input
+|text|/rate 5 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|bow 127.0.0.1
+action|input
+|text|um 127.0.0.1
+action|input
+|text|now* 127.0.0.1
+action|input
+|text|need fix 127.0.0.1
+action|input
+|text|store 127.0.0.1
+action|input
+|text|/fold 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|accountsecurity
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|123123213
+buttonClicked|changecode
+
+enabledaap|1
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|manage_title
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|ch0c
+
+titlelvl|0
+titledr|0
+titlelegend|0
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|goals
+
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|worlds_view
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|my_worlds
+buttonClicked|
+
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|growmojis
+
+ 127.0.0.1
+action|input
+|text|/find 127.0.0.1
+action|input
+|text|/buy 127.0.0.1
+action|dialog_return
+dialog_name|findid
+item|world
+ 127.0.0.1
+action|dialog_return
+dialog_name|findid
+buttonClicked|tool242
+
+item|
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|close
+
+ 127.0.0.1
+action|input
+|text|wtf 127.0.0.1
+action|input
+|text|dog 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|ads_tv
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|nwo 127.0.0.1
+action|input
+|text|tore 127.0.0.1
+action|input
+|text|shit 127.0.0.1
+action|input
+|text|cuz 127.0.0.1
+action|input
+|text|im dumb 127.0.0.1
+action|input
+|text|:/ 127.0.0.1
+action|input
+|text|/torll 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|/news 127.0.0.1
+action|input
+|text|/news 127.0.0.1
+action|input
+|text|/news 127.0.0.1
+action|input
+|text|/news 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|/eff 127.0.0.1
+action|input
+|text|/ssedidbackgrond 7188 127.0.0.1
+action|input
+|text|;troll 127.0.0.1
+action|input
+|text|/maic 127.0.0.1
+action|input
+|text|/giveitem 127.0.0.1
+action|input
+|text|/passpanel 127.0.0.1
+action|input
+|text|/resetset 127.0.0.1
+action|input
+|text|/unequip 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|wrench
+|netid|2
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+ 127.0.0.1
+tankIDName|HyperCold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+reconnect|1
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|custom
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|token
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|farmable
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|zraei_iotm
+ 127.0.0.1
+action|buy
+item|custom
+ 127.0.0.1
+action|buy
+item|rift_cape
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|wl_pack
+ 127.0.0.1
+action|buy
+item|door_sign_pack
+ 127.0.0.1
+action|buy
+item|signal_jammer
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|dialog_return
+dialog_name|sign_edit
+tilex|18|
+tiley|36|
+ch3|123123213
+ 127.0.0.1
+action|dialog_return
+dialog_name|sign_edit
+tilex|18|
+tiley|36|
+ch3|12
+ 127.0.0.1
+action|dialog_return
+dialog_name|sign_edit
+tilex|18|
+tiley|36|
+ch3|
+ 127.0.0.1
+action|dialog_return
+dialog_name|sign_edit
+tilex|18|
+tiley|36|
+ch3|
+ 127.0.0.1
+action|dialog_return
+dialog_name|sign_edit
+tilex|18|
+tiley|36|
+ch3| 
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|storenavigate
+item|locks
+selection|upgrade_backpack
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|bottommenu
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|pausemenu
+ 127.0.0.1
+action|store
+location|pausemenu
+ 127.0.0.1
+action|input
+|text|fak 127.0.0.1
+action|input
+|text|fak 127.0.0.1
+action|input
+|text|fak 127.0.0.1
+action|input
+|text|fak 127.0.0.1
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|sutikimas
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|register
+username|test
+password|123
+code|12345
+ 127.0.0.1
+tankIDName|test
+tankIDPass|123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+reconnect|1
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|/rate 5 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|token
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|buy
+item|wl_pack
+ 127.0.0.1
+action|buy
+item|wl_pack
+ 127.0.0.1
+action|buy
+item|wl_pack
+ 127.0.0.1
+action|buy
+item|wl_pack
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|buy
+item|world_lock
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|drop
+|itemID|242
+ 127.0.0.1
+action|input
+|text|skum wtf 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|custom
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+tankIDName|test
+tankIDPass|123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|buy
+item|birth_certificate
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|trash
+|itemID|1280
+ 127.0.0.1
+action|dialog_return
+dialog_name|trashdialog
+trashitemcount|1
+ 127.0.0.1
+tankIDName|test
+tankIDPass|123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|/news 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|/generete dev 127.0.0.1
+action|input
+|text|/generate MOD 127.0.0.1
+action|input
+|text|/redeem MOD231688 127.0.0.1
+action|input
+|text|/generate DEV 127.0.0.1
+action|input
+|text|/ 127.0.0.1
+action|input
+|text|/redeem DEV444726 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|so 127.0.0.1
+action|input
+|text|um 127.0.0.1
+action|input
+|text|ev 127.0.0.1
+action|input
+|text|im 127.0.0.1
+action|input
+|text|ev 127.0.0.1
+action|input
+|text|rn 127.0.0.1
+action|input
+|text|right 127.0.0.1
+action|input
+|text|? 127.0.0.1
+action|input
+|text|/trol 127.0.0.1
+action|input
+|text|es 127.0.0.1
+action|input
+|text|yes 127.0.0.1
+action|input
+|text|now 127.0.0.1
+action|input
+|text|im 127.0.0.1
+action|input
+|text|ev 127.0.0.1
+action|input
+|text|now 127.0.0.1
+action|input
+|text|look 127.0.0.1
+action|input
+|text|/generate MOD 127.0.0.1
+action|input
+|text|/redeem MOD362102 127.0.0.1
+action|input
+|text|boom 127.0.0.1
+action|input
+|text|now im mod 127.0.0.1
+action|input
+|text|/torll 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|input
+|text|hmm 127.0.0.1
+action|input
+|text|sec 127.0.0.1
+action|input
+|text|waht i added 127.0.0.1
+action|input
+|text|a 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/generate DEV 127.0.0.1
+action|input
+|text|/redeem DEV539343 127.0.0.1
+action|input
+|text|/redeem DEV530343 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|wtf 127.0.0.1
+action|input
+|text|forgot 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|worlds_view
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|my_worlds
+buttonClicked|
+
+ 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|/caim 127.0.0.1
+action|input
+|text|/giveitem 127.0.0.1
+action|input
+|text|/item 3774 127.0.0.1
+action|trash
+|itemID|3774
+ 127.0.0.1
+action|dialog_return
+dialog_name|trashdialog
+trashitemcount|199
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|im gi 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|input
+|text|9troll) 127.0.0.1
+action|input
+|text|(troll) 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|now 127.0.0.1
+action|input
+|text|hmm 127.0.0.1
+action|input
+|text|look me pr0 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|input
+|text|/generate MOD 127.0.0.1
+action|input
+|text|/redeem MOD231688 127.0.0.1
+action|input
+|text|boom 127.0.0.1
+action|input
+|text|/generate DEV 127.0.0.1
+action|input
+|text|/redeem DEV444726 127.0.0.1
+action|input
+|text|boom 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|input
+|text|/nick 127.0.0.1
+action|input
+|text|/nick 127.0.0.1
+action|input
+|text|/giveitem 127.0.0.1
+action|input
+|text|wait 127.0.0.1
+action|input
+|text|look now 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|custom
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|farmable
+ 127.0.0.1
+action|buy
+item|amethyst_block
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|growmojis
+
+ 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|wait 127.0.0.1
+action|input
+|text|see 127.0.0.1
+action|input
+|text|/rate 127.0.0.1
+action|input
+|text|/raet 5 127.0.0.1
+action|input
+|text|/rate 5 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|goals
+
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|token
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|bigitems
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|friends
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|backonlinelist
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|
+
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|for 127.0.0.1
+action|input
+|text|wtf 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|w 127.0.0.1
+action|input
+|text|w 127.0.0.1
+action|input
+|text|w 127.0.0.1
+action|input
+|text|a 127.0.0.1
+action|input
+|text|a 127.0.0.1
+action|input
+|text|ss 127.0.0.1
+action|input
+|text|aaaaaa 127.0.0.1
+action|input
+|text|wtf 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|ook nvm 127.0.0.1
+action|input
+|text|nnow 127.0.0.1
+action|input
+|text|now 127.0.0.1
+action|input
+|text|look 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|/regenereate 127.0.0.1
+action|input
+|text|/regenerate 127.0.0.1
+action|input
+|text|/mods 127.0.0.1
+action|input
+|text|/mods 127.0.0.1
+action|input
+|text|/online 127.0.0.1
+action|input
+|text|wtf 127.0.0.1
+action|input
+|text|i forgot 127.0.0.1
+action|input
+|text|to 127.0.0.1
+action|input
+|text|add 127.0.0.1
+action|input
+|text|it 127.0.0.1
+action|input
+|text|wtf 127.0.0.1
+action|input
+|text|i broke 127.0.0.1
+action|input
+|text|fp 127.0.0.1
+action|input
+|text|fp 127.0.0.1
+action|input
+|text|;fp 127.0.0.1
+action|input
+|text|/ffp 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|;fp 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|/p 127.0.0.1
+action|input
+|text|/pf 127.0.0.1
+action|input
+|text|/pf 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|/pf 127.0.0.1
+action|input
+|text|/fp 127.0.0.1
+action|input
+|text|/ 127.0.0.1
+action|input
+|text|/p 127.0.0.1
+action|input
+|text|/f 127.0.0.1
+action|input
+|text|/p 127.0.0.1
+action|input
+|text|pfp 127.0.0.1
+action|input
+|text|/pff 127.0.0.1
+action|input
+|text|f/pf 127.0.0.1
+action|input
+|text|/pf 127.0.0.1
+action|input
+|text|/p 127.0.0.1
+action|input
+|text|f 127.0.0.1
+action|input
+|text|f/p 127.0.0.1
+action|input
+|text|f/pf 127.0.0.1
+action|input
+|text|/pf 127.0.0.1
+action|input
+|text|/pp 127.0.0.1
+action|input
+|text|f 127.0.0.1
+action|input
+|text|/p 127.0.0.1
+action|input
+|text|p 127.0.0.1
+action|input
+|text|f/p 127.0.0.1
+action|input
+|text|fp 127.0.0.1
+action|input
+|text|/item 3794 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf1
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf1
+
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf1
+
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|token
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|farmable
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|farmable
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|custom
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|custom
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|bigitems
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|gere 127.0.0.1
+action|input
+|text|im 127.0.0.1
+action|input
+|text|gei 127.0.0.1
+action|input
+|text|ignore 127.0.0.1
+action|input
+|text|the 127.0.0.1
+action|input
+|text|test 127.0.0.1
+action|input
+|text|glitch 127.0.0.1
+action|input
+|text|fk 127.0.0.1
+action|input
+|text|it 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf4
+
+ 127.0.0.1
+action|input
+|text|m 127.0.0.1
+action|input
+|text|lets say 127.0.0.1
+action|input
+|text|uits normal  127.0.0.1
+action|input
+|text|:V 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|kk 127.0.0.1
+action|input
+|text|now 127.0.0.1
+action|input
+|text|/rate 5 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|/rate 127.0.0.1
+action|input
+|text|/rete 127.0.0.1
+action|input
+|text|/rate  127.0.0.1
+action|input
+|text|/rate 5 127.0.0.1
+action|input
+|text|/rate 4 127.0.0.1
+action|input
+|text|/rate 3 127.0.0.1
+action|input
+|text|/rate 2 127.0.0.1
+action|input
+|text|/rate 1 127.0.0.1
+action|input
+|text|/rate 6 127.0.0.1
+action|input
+|text|wtf 127.0.0.1
+action|input
+|text|6+ no counting 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|same as 0 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|token
+ 127.0.0.1
+action|buy
+item|danger_lama
+ 127.0.0.1
+action|buy
+item|sealth_box
+ 127.0.0.1
+action|buy
+item|grow_boy
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|zraei_iotm
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|farmable
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|custom
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|itempack
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|bigitems
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|dialog_return
+dialog_name|lock_editz
+checkbox_public|1
+checkbox_noclip|0
+checkbox_disable_music|0
+tempo|100
+checkbox_disable_music_render|0
+minimum_entry_level|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|lock_editz
+checkbox_public|0
+checkbox_noclip|0
+checkbox_disable_music|0
+tempo|100
+checkbox_disable_music_render|0
+minimum_entry_level|1
+ 127.0.0.1
+action|eventmenu
+ 127.0.0.1
+action|friends
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+ 127.0.0.1
+action|input
+|text|hmm 127.0.0.1
+action|input
+|text|sec 127.0.0.1
+action|input
+|text|/generate MOD 127.0.0.1
+action|input
+|text|/redeem MOD731421 127.0.0.1
+action|input
+|text|/generate DEV 127.0.0.1
+action|input
+|text|/redeem DEV084648 127.0.0.1
+action|input
+|text|ye 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+action|input
+|text|/yew 127.0.0.1
+action|input
+|text|/yes 127.0.0.1
+action|input
+|text|now 127.0.0.1
+action|input
+|text|um 127.0.0.1
+action|input
+|text|/info hypercold 127.0.0.1
+action|dialog_return
+dialog_name|Close
+buttonClicked|showuserinventory
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|close
+
+ 127.0.0.1
+action|input
+|text|next 127.0.0.1
+action|input
+|text|/buy 127.0.0.1
+action|dialog_return
+dialog_name|findid
+item|wing
+ 127.0.0.1
+action|dialog_return
+dialog_name|findid
+buttonClicked|tool8286
+
+item|
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|close
+
+ 127.0.0.1
+action|input
+|text|yes 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|input
+|text|hmm 127.0.0.1
+action|input
+|text|sec 127.0.0.1
+action|input
+|text|/purchase 127.0.0.1
+action|input
+|text|/rules 127.0.0.1
+action|dialog_return
+dialog_name|popup
+ 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|forgot to change 127.0.0.1
+action|input
+|text|rules 127.0.0.1
+action|input
+|text|:') 127.0.0.1
+action|input
+|text|((troll) 127.0.0.1
+action|input
+|text|(troll)(troll) 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|input
+|text|next 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf1
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf2
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf3
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf4
+
+ 127.0.0.1
+action|input
+|text|50% 127.0.0.1
+action|input
+|text|cyz 127.0.0.1
+action|input
+|text|need add 127.0.0.1
+action|input
+|text|placing thing 127.0.0.1
+action|input
+|text|forgot how 127.0.0.1
+action|input
+|text|ban panel not added yey 127.0.0.1
+action|input
+|text|sunce 127.0.0.1
+action|input
+|text|waiting 127.0.0.1
+action|input
+|text|blackgat 127.0.0.1
+action|input
+|text|/trll 127.0.0.1
+action|input
+|text|/troll 127.0.0.1
+action|wrench
+|netid|5
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|manage_title
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|ch0c
+
+titlelvl|0
+titledr|1
+titlelegend|0
+ 127.0.0.1
+action|input
+|text|pro titles 127.0.0.1
+action|wrench
+|netid|5
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|manage_audio
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|song_edit
+buttonClicked|Cancel
+
+checkbox_ahrix|0
+checkbox_phut|0
+checkbox_stopme|0
+checkbox_feelit|0
+checkbox_sayso|1
+checkbox_bealone|0
+ 127.0.0.1
+action|wrench
+|netid|5
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|accountsecurity
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|123123213
+buttonClicked|changecode
+
+enabledaap|1
+ 127.0.0.1
+action|input
+|text|some typo ok 127.0.0.1
+action|input
+|text|:troll 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|wrench
+|netid|5
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|worlds_view
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|my_worlds
+buttonClicked|
+
+ 127.0.0.1
+action|wrench
+|netid|5
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|goals
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|mainwrenchpage
+buttonClicked|viewFisherman
+
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|growmojis
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|goalslist
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|accountsecurity
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|123123213
+buttonClicked|changecode
+
+enabledaap|1
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf4
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf3
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf2
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf1
+
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|btw 127.0.0.1
+action|input
+|text|btw 127.0.0.1
+action|input
+|text|btw 127.0.0.1
+action|input
+|text|btw 127.0.0.1
+action|input
+|text|vbtw 127.0.0.1
+action|input
+|text|btw 127.0.0.1
+action|input
+|text|tkw'd 127.0.0.1
+action|input
+|text|wd 127.0.0.1
+action|input
+|text|d 127.0.0.1
+action|input
+|text|d 127.0.0.1
+action|input
+|text|d 127.0.0.1
+action|input
+|text|aw 127.0.0.1
+action|input
+|text|a 127.0.0.1
+action|input
+|text|d 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|input
+|text|d 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|input
+|text|a 127.0.0.1
+action|input
+|text|d 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|input
+|text|d 127.0.0.1
+action|input
+|text|dad 127.0.0.1
+action|input
+|text|changed LEAVE 127.0.0.1
+action|input
+|text|t 127.0.0.1
+action|input
+|text|to 127.0.0.1
+action|input
+|text|`2EXIT 127.0.0.1
+action|input
+|text|/omg 127.0.0.1
+action|input
+|text|h 127.0.0.1
+action|input
+|text|dh 127.0.0.1
+action|input
+|text|dh 127.0.0.1
+action|input
+|text|hdhd 127.0.0.1
+action|input
+|text|hhd 127.0.0.1
+action|input
+|text|hd 127.0.0.1
+action|input
+|text|hd 127.0.0.1
+action|input
+|text|hdhdhdh 127.0.0.1
+action|input
+|text|d 127.0.0.1
+action|input
+|text|hd 127.0.0.1
+action|input
+|text|hdd 127.0.0.1
+action|input
+|text|hd 127.0.0.1
+action|input
+|text|hdh 127.0.0.1
+action|input
+|text|hd 127.0.0.1
+action|input
+|text|h 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|input
+|text|h 127.0.0.1
+action|input
+|text|dh 127.0.0.1
+action|input
+|text|hd 127.0.0.1
+action|input
+|text|hdhdhd 127.0.0.1
+action|input
+|text|hd 127.0.0.1
+action|input
+|text|h 127.0.0.1
+action|input
+|text|h 127.0.0.1
+action|input
+|text|hd 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|input
+|text|F 127.0.0.1
+action|input
+|text|JF 127.0.0.1
+action|input
+|text|JJ 127.0.0.1
+action|input
+|text|JJ 127.0.0.1
+action|input
+|text|JF 127.0.0.1
+action|input
+|text|JF 127.0.0.1
+action|input
+|text|g 127.0.0.1
+action|input
+|text|jg 127.0.0.1
+action|input
+|text|gj 127.0.0.1
+action|input
+|text|gj 127.0.0.1
+action|input
+|text|g 127.0.0.1
+action|input
+|text|g 127.0.0.1
+action|input
+|text|gj 127.0.0.1
+action|input
+|text|jg 127.0.0.1
+action|input
+|text|jgj 127.0.0.1
+action|input
+|text|gj 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|se 127.0.0.1
+action|input
+|text|jes 127.0.0.1
+action|input
+|text|jes 127.0.0.1
+action|input
+|text|jj 127.0.0.1
+action|input
+|text|jgj 127.0.0.1
+action|input
+|text|jg 127.0.0.1
+action|input
+|text|es 127.0.0.1
+action|input
+|text|sj 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|jjg 127.0.0.1
+action|input
+|text|esj 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|eg 127.0.0.1
+action|input
+|text|sj 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|input
+|text|sej 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|g 127.0.0.1
+action|input
+|text|ejg 127.0.0.1
+action|input
+|text|sj 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|jj 127.0.0.1
+action|input
+|text|jes 127.0.0.1
+action|input
+|text|jse 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|input
+|text|gj 127.0.0.1
+action|input
+|text|egj 127.0.0.1
+action|input
+|text|esj 127.0.0.1
+action|input
+|text|jjsejg 127.0.0.1
+action|input
+|text|gjes 127.0.0.1
+action|input
+|text|jes 127.0.0.1
+action|input
+|text|gj 127.0.0.1
+action|input
+|text|jsj 127.0.0.1
+action|input
+|text|gj 127.0.0.1
+action|input
+|text|jgs 127.0.0.1
+action|input
+|text|;v 127.0.0.1
+action|input
+|text| 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|ajfa 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|jfaw 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|jfa 127.0.0.1
+action|input
+|text|fafj 127.0.0.1
+action|input
+|text|f 127.0.0.1
+action|input
+|text|jj 127.0.0.1
+action|input
+|text|fj 127.0.0.1
+action|input
+|text|j 127.0.0.1
+action|input
+|text|jf 127.0.0.1
+action|input
+|text|jf 127.0.0.1
+action|input
+|text|jf 127.0.0.1
+action|input
+|text|jf 127.0.0.1
+action|input
+|text|fja 127.0.0.1
+action|input
+|text|fj 127.0.0.1
+action|input
+|text|jfj 127.0.0.1
+action|input
+|text|:V 127.0.0.1
+action|input
+|text|/info hypercold 127.0.0.1
+action|dialog_return
+dialog_name|Close
+buttonClicked|showuserinventory
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|close
+
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|farmable
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|buy
+item|punch_jammer
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|buy
+item|signal_jammer
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+jammer_public|0
+jammer_muted|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+jammer_public|1
+jammer_muted|0
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+jammer_public|0
+jammer_muted|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+jammer_public|1
+jammer_muted|1
+ 127.0.0.1
+action|input
+|text|wtf 127.0.0.1
+action|input
+|text|skom 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+jammer_public|0
+jammer_muted|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+jammer_public|1
+jammer_muted|1
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|wrench
+|netid|7
+ 127.0.0.1
+action|input
+|text|sec 127.0.0.1
+action|input
+|text|/buy 127.0.0.1
+action|dialog_return
+dialog_name|findid
+item|gat
+ 127.0.0.1
+action|dialog_return
+dialog_name|findid
+buttonClicked|tool598
+
+item|
+ 127.0.0.1
+action|dialog_return
+dialog_name|buyitembyrarity
+buyitembyrarityid_598_29|1
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|buy
+item|wl_pack
+ 127.0.0.1
+action|buy
+item|wl_pack
+ 127.0.0.1
+action|buy
+item|wl_pack
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|/buy 127.0.0.1
+action|dialog_return
+dialog_name|findid
+item|gat
+ 127.0.0.1
+action|dialog_return
+dialog_name|findid
+buttonClicked|tool598
+
+item|
+ 127.0.0.1
+action|dialog_return
+dialog_name|buyitembyrarity
+buyitembyrarityid_598_29|1
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|locks
+ 127.0.0.1
+action|buy
+item|punch_jammer
+ 127.0.0.1
+action|buy
+item|signal_jammer
+ 127.0.0.1
+action|buy
+item|zombie_jammer
+ 127.0.0.1
+action|buy
+item|antigravity_generator
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|dialog_return
+dialog_name|gazette
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|1
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|0
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|input
+|text|ok 127.0.0.1
+action|input
+|text|um 127.0.0.1
+action|input
+|text|jammers broke 127.0.0.1
+action|input
+|text|next 127.0.0.1
+action|input
+|text|/info hypercold 127.0.0.1
+action|dialog_return
+dialog_name|Close
+buttonClicked|banpanel
+
+ 127.0.0.1
+action|input
+|text|skom? 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|1
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|0
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|1
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|0
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|wrench
+|netid|2
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|achievements
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|gayno
+buttonClicked|backtoplayerinfo
+
+ 127.0.0.1
+action|wrench
+|netid|2
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|achievements
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|gayno
+buttonClicked|backtoplayerinfo
+
+ 127.0.0.1
+action|wrench
+|netid|2
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|growmojis
+
+ 127.0.0.1
+action|input
+|text|/giveitem 127.0.0.1
+action|dialog_return
+dialog_name|refund
+player|hypercold
+itemid|7188
+itemcount|1
+ 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|0
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf4
+
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf1
+
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf4
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf3
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf2
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|dshelf1
+
+ 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|achievements
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|gayno
+buttonClicked|backtoplayerinfo
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|1
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|dialog_return
+dialog_name|jammer_edit
+checkbox_jammer|0
+jammer_public|0
+jammer_muted|0
+ 127.0.0.1
+action|dialog_return
+dialog_name|lock_editz
+checkbox_public|0
+checkbox_noclip|0
+checkbox_disable_music|0
+tempo|100
+checkbox_disable_music_render|0
+minimum_entry_level|1
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|/info hypercold 127.0.0.1
+action|dialog_return
+dialog_name|Close
+buttonClicked|banpanel
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|banuserpanel
+buttonClicked|modrules
+
+bandays|0
+banhours|0
+bamins|0
+banreason|
+ 127.0.0.1
+action|input
+|text|/info hypercold 127.0.0.1
+action|dialog_return
+dialog_name|Close
+buttonClicked|banpanel
+
+ 127.0.0.1
+action|input
+|text|/info test 127.0.0.1
+action|input
+|text|/info test 127.0.0.1
+action|input
+|text|/info qweqweqwe 127.0.0.1
+action|input
+|text|/info hypercold 127.0.0.1
+action|input
+|text|/info  127.0.0.1
+action|input
+|text|/info hyp 127.0.0.1
+action|input
+|text|/info trust 127.0.0.1
+action|input
+|text|/? 127.0.0.1
+action|input
+|text|/help 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|chc0
+
+ 127.0.0.1
+action|input
+|text|/generate DEV 127.0.0.1
+action|input
+|text|/generate DEV 127.0.0.1
+action|input
+|text|/generate DEV 127.0.0.1
+action|input
+|text|/redeem DEV362102 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|input
+|text|. 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|/nick 127.0.0.1
+action|input
+|text|/logs 127.0.0.1
+action|input
+|text|/generate MOD 127.0.0.1
+action|input
+|text|/redeem MOD530343 127.0.0.1
+action|wrench
+|netid|2
+ 127.0.0.1
+action|input
+|text|/yp 127.0.0.1
+action|input
+|text|/tp 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|input
+|text|/nick 127.0.0.1
+action|input
+|text|/giveitem 127.0.0.1
+action|dialog_return
+dialog_name|refund
+player|hypercold
+itemid|7188
+itemcount|1
+ 127.0.0.1
+action|input
+|text|/clkaim 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|input
+|text|/giveitem 127.0.0.1
+action|dialog_return
+dialog_name|refund
+player|hypercold
+itemid|7188
+itemcount|11
+ 127.0.0.1
+action|input
+|text|/claim 127.0.0.1
+action|drop
+|itemID|7188
+ 127.0.0.1
+action|trash
+|itemID|7188
+ 127.0.0.1
+action|input
+|text|/dev 127.0.0.1
+action|input
+|text|/mod 127.0.0.1
+tankIDName|Hypercold
+tankIDPass|123123
+requestedName|AzureFairy
+f|1
+protocol|126
+game_version|3.6
+fz|7881040
+lmode|0
+cbits|0
+player_age|26
+GDPR|1
+hash2|-636271085
+meta|localhost
+fhash|-716928004
+rid|017C9F1026F8715E013908C90E652D84
+platformID|0
+deviceVersion|0
+country|us
+hash|386833086
+mac|75:21:5f:78:1d:eb
+wk|9BAB443A8E90E4EA27FE3BB2864AAD1D
+zf|-622756344 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|enter_game
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|getDRAnimations
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|/moderation 127.0.0.1
+action|input
+|text|/moderation 127.0.0.1
+action|input
+|text|/moderate 127.0.0.1
+action|dialog_return
+dialog_name|moderation
+invis|1
+ghost|0
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|input
+|text|/moderate 127.0.0.1
+action|dialog_return
+dialog_name|moderation
+invis|0
+ghost|1
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1
+action|input
+|text|/mods 127.0.0.1
+action|input
+|text|/banpanel 127.0.0.1
+action|input
+|text|/info hypercold 127.0.0.1
+action|dialog_return
+dialog_name|Close
+buttonClicked|banpanel
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|banuserpanel
+bandays|730
+banhours|0
+bamins|0
+banreason|SKOMMOR
+ 127.0.0.1
+action|wrench
+|netid|1
+ 127.0.0.1
+action|dialog_return
+dialog_name|
+buttonClicked|accountsecurity
+
+ 127.0.0.1
+action|dialog_return
+dialog_name|123123213
+buttonClicked|changecode
+
+ 127.0.0.1
+action|store
+location|gem
+ 127.0.0.1
+action|buy
+item|itempack
+ 127.0.0.1
+action|killstore
+item|
+ 127.0.0.1

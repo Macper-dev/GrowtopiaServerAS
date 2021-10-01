@@ -1,0 +1,2495 @@
+// Door [R2] = Dirt Seed + Cave Background Seed
+12|3|15
+
+// Grass [R2] = Dirt Seed + Rock Seed
+16|3|11
+
+// Sign [R2] = Cave Background Seed + Rock Seed
+20|15|11
+
+// Daisy [R3] = Grass Seed + Dirt Seed
+22|17|3
+
+// Pointy Sign [R4] = Door Seed + Sign Seed
+24|13|21
+
+// Crappy Sign [R3] = Door Seed + Dirt Seed
+26|13|3
+
+// Danger Sign [R5] = Lava Seed + Pointy Sign Seed
+28|5|25
+
+// Dungeon Door [R8] = Door Seed + Window Seed
+30|13|55
+
+// Shades [R6] = Black Block Seed + Glass Pane Seed
+34|167|57
+
+// Green Shirt [R7] = Grass Seed + Green Block Seed
+36|17|177
+
+// Tuxedo [R7] = Grey Block Seed + Rose Seed
+38|165|191
+
+// Brown Shoes [R5] = Cave Background Seed + Brown Block Seed
+40|15|185
+
+// Boots [R5] = Rock Seed + Black Block Seed
+42|11|167
+
+// Red Hair [R6] = Grass Seed + Red Block Seed
+44|17|171
+
+// Baseball Cap [R13] = Bush Seed + Wooden Platform Seed
+46|193|103
+
+// Jeans [R6] = Aqua Block Seed + Rock Seed
+48|179|11
+
+// Sexy Boxers [R18] = Polka Dot Block Seed + Rose Seed
+50|283|191
+
+// Wooden Background [R4] = Grass Seed + Door Seed
+52|17|13
+
+// Window [R6] = Glass Pane Seed + Wooden Background Seed
+54|57|53
+
+// Glass Pane [R2] = Rock Seed + Lava Seed
+56|11|5
+
+// Wooden Window [R10] = Window Seed + Wooden Background Seed
+58|55|53
+
+// Portcullis [R16] = Dungeon Door Seed + Death Spikes Seed
+60|31|163
+
+// Boombox [R39] = Steel Block Seed + Black Block Seed
+62|187|167
+
+// Olde Timey Radio [R15] = Toilet Seed + Dungeon Door Seed
+64|107|31
+
+// Top Hat [R7] = Black Block Seed + Mushroom Seed
+66|167|195
+
+// Brown Hair [R5] = Dirt Seed + Brown Block Seed
+68|3|185
+
+// Spikey Hair [R14] = Death Spikes Seed + Yellow Block Seed
+70|163|175
+
+// Afro [R13] = Bush Seed + Black Block Seed
+72|193|167
+
+// Ski Cap [R18] = Blue Block Seed + Mushroom Seed
+74|181|195
+
+// Black Pants [R6] = Door Seed + Black Block Seed
+76|13|167
+
+// Patent Leather Shoes [R11] = Brick Background Seed + Grey Block Seed
+78|119|165
+
+// Ruby Slippers [R49] = Red Block Seed + Disco Ball Seed
+80|171|115
+
+// Green Skirt [R11] = Poppy Seed + Green Block Seed
+82|189|177
+
+// Green Blouse [R14] = Bush Seed + Green Block Seed
+84|193|177
+
+// Purple Thong [R24] = Purple Block Seed + Danger Sign Seed
+86|183|29
+
+// Purple Bikini Top [R22] = Purple Block Seed + Rose Seed
+88|183|191
+
+// Blonde Bombshell [R8] = Yellow Block Seed + Grass Seed
+90|175|17
+
+// Briefcase [R14] = Brown Block Seed + Stripey Wallpaper Seed
+92|185|201
+
+// Sword [R11] = Death Spikes Seed + Rock Background Seed
+94|163|105
+
+// Just One Boxing Glove [R16] = Red Block Seed + Blueberry Seed
+96|171|197
+
+// Pickaxe [R17] = Portcullis Seed + Cave Background Seed
+98|61|15
+
+// Wood Block [R2] = Dirt Seed + Lava Seed
+100|3|5
+
+// Wooden Platform [R4] = Wood Block Seed + Grass Seed
+102|101|17
+
+// Rock Background [R3] = Rock Seed + Door Seed
+104|11|13
+
+// Toilet [R7] = Crappy Sign Seed + Brown Block Seed
+106|27|185
+
+// Painting: Yerfdog [R10] = Wooden Background Seed + White Block Seed
+108|53|169
+
+// Painting: Dink Duck [R10] = Yellow Block Seed + Wooden Background Seed
+110|175|53
+
+// Disco Ball [R45] = Window Seed + Boombox Seed
+114|55|63
+
+// Bricks [R3] = Rock Seed + Grass Seed
+116|11|17
+
+// Brick Background [R7] = Bricks Seed + Black Block Seed
+118|117|167
+
+// Mystery Block [R80] = Steel Block Seed + Disco Ball Seed
+120|187|115
+
+// Red Riding Hood [R7] = Red Block Seed + Mushroom Seed
+122|171|195
+
+// Red Coat [R13] = Red Block Seed + Bush Seed
+124|171|193
+
+// Devil Horns [R9] = Lava Seed + Death Spikes Seed
+126|5|163
+
+// Golden Halo [R51] = Yellow Block Seed + Disco Ball Seed
+128|175|115
+
+// Hot Head [R5] = Lava Seed + Red Block Seed
+130|5|171
+
+// Brainwave Capacitor [R21] = Olde Timey Radio Seed + Yellow Block Seed
+132|65|175
+
+// TV Head [R17] = Olde Timey Radio Seed + Wood Block Seed
+134|65|101
+
+// Fairy Crown [R47] = Grass Seed + Disco Ball Seed
+136|17|115
+
+// Cyclopean Visor [R10] = Window Seed + Red Block Seed
+138|55|171
+
+// Biker Stache [R6] = Brown Block Seed + Grass Seed
+140|185|17
+
+// Shallot Mustache [R5] = Mushroom Seed + Grass Seed
+142|195|17
+
+// X-Ray Specs [R8] = Glass Pane Seed + White Block Seed
+144|57|169
+
+// Gold-Rimmed Glasses [R12] = Yellow Block Seed + Window Seed
+146|175|55
+
+// Big Glasses [R16] = Window Seed + Wooden Window Seed
+148|55|59
+
+// Fairy Dress [R50] = Aqua Block Seed + Disco Ball Seed
+150|179|115
+
+// Fairy Skirt [R48] = Daisy Seed + Disco Ball Seed
+152|23|115
+
+// Fairy Slippers [R51] = Poppy Seed + Disco Ball Seed
+154|189|115
+
+// Fairy Wings [R52] = Flowery Wallpaper Seed + Disco Ball Seed
+156|199|115
+
+// Fairy Wand [R47] = Wood Block Seed + Disco Ball Seed
+158|101|115
+
+// Jetpack [R36] = Lava Seed + Steel Block Seed
+160|5|187
+
+// Death Spikes [R8] = Danger Sign Seed + Rock Background Seed
+162|29|105
+
+// Grey Block [R4] = Bricks Seed + Rock Seed
+164|117|11
+
+// Black Block [R4] = Bricks Seed + Cave Background Seed
+166|117|15
+
+// White Block [R6] = Bricks Seed + Mushroom Seed
+168|117|195
+
+// Red Block [R4] = Bricks Seed + Lava Seed
+170|117|5
+
+// Orange Block [R9] = Bricks Seed + Poppy Seed
+172|117|189
+
+// Yellow Block [R6] = Bricks Seed + Daisy Seed
+174|117|23
+
+// Green Block [R5] = Bricks Seed + Grass Seed
+176|117|17
+
+// Aqua Block [R5] = Bricks Seed + Glass Pane Seed
+178|117|57
+
+// Blue Block [R15] = Bricks Seed + Blueberry Seed
+180|117|197
+
+// Purple Block [R19] = Red Block Seed + Blue Block Seed
+182|171|181
+
+// Brown Block [R4] = Bricks Seed + Dirt Seed
+184|117|3
+
+// Steel Block [R35] = Purple Block Seed + Portcullis Seed
+186|183|61
+
+// Poppy [R6] = Rose Seed + Daisy Seed
+188|191|23
+
+// Rose [R3] = Grass Seed + Lava Seed
+190|17|5
+
+// Bush [R9] = Poppy Seed + Rose Seed
+192|189|191
+
+// Mushroom [R3] = Cave Background Seed + Grass Seed
+194|15|17
+
+// Blueberry [R12] = Bush Seed + Mushroom Seed
+196|193|195
+
+// Flowery Wallpaper [R7] = Wooden Background Seed + Daisy Seed
+198|53|23
+
+// Stripey Wallpaper [R10] = Green Block Seed + Aqua Block Seed
+200|177|179
+
+// Burglar Mask [R8] = Cave Background Seed + Brick Background Seed
+208|15|119
+
+// Referee Shirt [R10] = Black Block Seed + White Block Seed
+210|167|169
+
+// Froghat [R14] = Aqua Block Seed + Bush Seed
+212|179|193
+
+// Flashlight [R10] = Black Block Seed + Yellow Block Seed
+214|167|175
+
+// Rooster Hat [R12] = Yellow Block Seed + White Block Seed
+216|175|169
+
+// Wooden Chair [R11] = Wooden Platform Seed + Toilet Seed
+218|103|107
+
+// Note Block [R30] = Blue Block Seed + Olde Timey Radio Seed
+220|181|65
+
+// Wooden Table [R6] = Wooden Platform Seed + Wood Block Seed
+222|103|101
+
+// House Entrance [R10] = Dungeon Door Seed + Door Seed
+224|31|13
+
+// Bathtub [R13] = Toilet Seed + White Block Seed
+230|107|169
+
+// White Beard [R15] = White Block Seed + Bush Seed
+232|169|193
+
+// Santa Hat [R10] = Red Block Seed + White Block Seed
+234|171|169
+
+// Santa Pants [R5] = Lava Seed + Grey Block Seed
+236|5|165
+
+// Santa Vest [R7] = Lava Seed + White Block Seed
+238|5|169
+
+// Sack O' Joy [R75] = Note Block Seed + Disco Ball Seed
+240|221|115
+
+// Music Box [R38] = Rubber Ducky Seed + Olde Timey Radio Seed
+246|301|65
+
+// Evil Bricks [R5] = Lava Seed + Black Block Seed
+248|5|167
+
+// Asbestos Boots [R11] = Evil Bricks Seed + Yellow Block Seed
+250|249|175
+
+// Cuzco Wall Mount [R18] = Painting: Yerfdog Seed + Dungeon Door Seed
+252|109|31
+
+// Robot Wants Dubstep [R65] = Note Block Seed + Steel Block Seed
+254|221|187
+
+// Saturday Night Vest [R86] = Golden Block Seed + Disco Ball Seed
+256|261|115
+
+// White Bellbottoms [R51] = White Block Seed + Disco Ball Seed
+258|169|115
+
+// Golden Block [R41] = Steel Block Seed + Yellow Block Seed
+260|187|175
+
+// Picket Fence [R17] = Wooden Chair Seed + White Block Seed
+264|219|169
+
+// Long Black Hair [R20] = Black Block Seed + Portcullis Seed
+266|167|61
+
+// Purple Mohawk [R36] = Picket Fence Seed + Purple Block Seed
+268|265|183
+
+// Messy Brown Hair [R5] = Crappy Sign Seed + Grass Seed
+270|27|17
+
+// Long Brown Hair [R8] = Wooden Table Seed + Grass Seed
+272|223|17
+
+// Bed [R14] = Wooden Chair Seed + Mushroom Seed
+280|219|195
+
+// Polka Dot Block [R15] = White Block Seed + Orange Block Seed
+282|169|173
+
+// Checker Wallpaper [R11] = Window Seed + Evil Bricks Seed
+284|55|249
+
+// Fireplace [R46] = Evil Bricks Seed + Golden Block Seed
+286|249|261
+
+// Snorkel [R15] = Bathtub Seed + Glass Pane Seed
+288|231|57
+
+// Ninja Mask [R44] = The Darkness Seed + Black Block Seed
+290|299|167
+
+// Ninja Tights [R59] = The Darkness Seed + Purple Block Seed
+292|299|183
+
+// Ninja Vest [R55] = The Darkness Seed + Blue Block Seed
+294|299|181
+
+// Ninja Slippers [R44] = The Darkness Seed + Brown Block Seed
+296|299|185
+
+// The Darkness [R40] = Steel Block Seed + Evil Bricks Seed
+298|187|249
+
+// Rubber Ducky [R23] = Bathtub Seed + Painting: Dink Duck Seed
+300|231|111
+
+// Checkered Pajamas [R25] = Checker Wallpaper Seed + Bed Seed
+302|285|281
+
+// Tie Dyed Shirt [R26] = Polka Dot Block Seed + Checker Wallpaper Seed
+304|283|285
+
+// Rainbow Wig [R74] = Rainbow Block Seed + Fireplace Seed
+306|309|287
+
+// Rainbow Block [R28] = Purple Block Seed + Orange Block Seed
+308|183|173
+
+// Monocle [R44] = Music Box Seed + Window Seed
+310|247|55
+
+// Pirate Hat [R53] = Cannon Seed + Mushroom Seed
+312|321|195
+
+// Eyepatch [R68] = Cannon Seed + Cuzco Wall Mount Seed
+314|321|253
+
+// Peg Leg [R29] = Rubber Ducky Seed + Wooden Table Seed
+316|301|223
+
+// Diamond Ring [R141] = Golden Block Seed + Crystal Block Seed
+318|261|263
+
+// Cannon [R50] = Fireplace Seed + Black Block Seed
+320|287|167
+
+// High Tech Wall [R69] = Robot Wants Dubstep Seed + Black Block Seed
+322|255|167
+
+// High Tech Block [R69] = Robot Wants Dubstep Seed + Grey Block Seed
+324|255|165
+
+// Magic Bacon Wallpaper [R38] = Rainbow Block Seed + House Entrance Seed
+326|309|225
+
+// Bubble Wrap [R14] = Glass Pane Seed + Blueberry Seed
+328|57|197
+
+// Cactus [R17] = Bush Seed + Death Spikes Seed
+330|193|163
+
+// Sandstone [R18] = Cactus Seed + Dirt Seed
+332|331|3
+
+// Art Wall [R66] = Magic Bacon Wallpaper Seed + Rainbow Block Seed
+334|327|309
+
+// Stone Wall [R5] = Rock Seed + Grey Block Seed
+336|11|165
+
+// Das Red Balloon [R18] = Bubble Wrap Seed + Red Block Seed
+338|329|171
+
+// Chandelier [R87] = Fireplace Seed + Golden Block Seed
+340|287|261
+
+// Lovely Pink Dress [R10] = Flowery Wallpaper Seed + Mushroom Seed
+342|199|195
+
+// Fishnet Stockings [R79] = The Darkness Seed + Boombox Seed
+344|299|63
+
+// Monster Feet [R14] = Devil Horns Seed + Green Block Seed
+346|127|177
+
+// Hoop Earrings [R57] = Golden Halo Seed + Poppy Seed
+348|129|189
+
+// Lollipop [R31] = Blueberry Seed + Purple Block Seed
+352|197|183
+
+// Viking Helmet [R9] = Stone Wall Seed + Pointy Sign Seed
+354|337|25
+
+// Pigtails [R12] = Orange Block Seed + Daisy Seed
+356|173|23
+
+// Cloudstone Block [R28] = Aqua Block Seed + Dreamstone Block Seed
+358|179|361
+
+// Dreamstone Block [R23] = Orange Block Seed + Bed Seed
+360|173|281
+
+// Mud Glob [R4] = Dirt Seed + Daisy Seed
+368|3|23
+
+// Cargo Shorts [R3] = Dirt Seed + Wood Block Seed
+370|3|101
+
+// Stinky Socks [R4] = Dirt Seed + Mushroom Seed
+372|3|195
+
+// Tan Shirt [R4] = Dirt Seed + Rock Background Seed
+374|3|105
+
+// Super Crate Box [R3] = Dirt Seed + Sign Seed
+376|3|21
+
+// Amber Glass [R3] = Dirt Seed + Glass Pane Seed
+378|3|57
+
+// Lava Rock [R2] = Lava Seed + Cave Background Seed
+380|5|15
+
+// Time-Space Rupture [R79] = High Tech Wall Seed + House Entrance Seed
+382|323|225
+
+// Stove [R71] = High Tech Block Seed + Lava Rock Seed
+398|325|381
+
+// Spatula [R88] = Stove Seed + Picket Fence Seed
+400|399|265
+
+// Apron [R82] = Stove Seed + Checker Wallpaper Seed
+402|399|285
+
+// Chef Hat [R74] = Stove Seed + Mushroom Seed
+404|399|195
+
+// Blueberry Pie [R83] = Stove Seed + Blueberry Seed
+406|399|197
+
+// Checkpoint [R42] = Bubble Wrap Seed + Cloudstone Block Seed
+410|329|359
+
+// Sheet Music: Blank [R9] = Super Crate Box Seed + White Block Seed
+412|377|169
+
+// Sheet Music: Bass Note [R24] = Sheet Music: Blank Seed + Blue Block Seed
+414|413|181
+
+// Sheet Music: Sharp Bass [R32] = Sheet Music: Bass Note Seed + Death Spikes Seed
+416|415|163
+
+// Sheet Music: Flat Bass [R25] = Sheet Music: Bass Note Seed + Rock Seed
+418|415|11
+
+// Sheet Music: Piano Note [R14] = Sheet Music: Blank Seed + Green Block Seed
+420|413|177
+
+// Sheet Music: Sharp Piano [R22] = Sheet Music: Piano Note Seed + Death Spikes Seed
+422|421|163
+
+// Sheet Music: Flat Piano [R15] = Sheet Music: Piano Note Seed + Rock Seed
+424|421|11
+
+// Sheet Music: Drums [R13] = Sheet Music: Blank Seed + Brown Block Seed
+426|413|185
+
+// Race Start Flag [R22] = Blue Star Wallpaper Seed + Pointy Sign Seed
+428|433|25
+
+// Race End Flag [R33] = Race Start Flag Seed + Checker Wallpaper Seed
+430|429|285
+
+// Blue Star Wallpaper [R18] = Blue Block Seed + Amber Glass Seed
+432|181|379
+
+// Wall Like An Egyptian [R22] = Sandstone Seed + Mud Glob Seed
+436|333|369
+
+// Plumbing [R18] = Bathtub Seed + Green Block Seed
+438|231|177
+
+// Ice [R30] = Cloudstone Block Seed + Glass Pane Seed
+440|359|57
+
+// Fishbowl [R40] = Ice Seed + Wooden Window Seed
+444|441|59
+
+// Poodle Skirt [R41] = Dreamstone Block Seed + Das Red Balloon Seed
+446|361|339
+
+// Backpack [R17] = Super Crate Box Seed + Bed Seed
+448|377|281
+
+// Space Helmet [R82] = Fishbowl Seed + Checkpoint Seed
+450|445|411
+
+// Plate Mail [R51] = Steel Block Seed + Portcullis Seed
+452|187|61
+
+// Venus Guytrap [R41] = Magic Bacon Wallpaper Seed + Daisy Seed
+454|327|23
+
+// Dice Block [R70] = Art Wall Seed + Grey Block Seed
+456|335|165
+
+// Dresser [R14] = Dungeon Door Seed + Wooden Table Seed
+458|31|223
+
+// Table Lamp [R24] = Blue Star Wallpaper Seed + Wooden Table Seed
+460|433|223
+
+// Fedora [R83] = Time-Space Rupture Seed + Black Block Seed
+462|383|167
+
+// Dame's Fedora [R85] = Time-Space Rupture Seed + Poppy Seed
+464|383|189
+
+// Pinstripe Suit [R82] = Time-Space Rupture Seed + Rose Seed
+466|383|191
+
+// Pinstripe Pants [R89] = Time-Space Rupture Seed + Stripey Wallpaper Seed
+468|383|201
+
+// Cigar [R81] = Time-Space Rupture Seed + Lava Rock Seed
+470|383|381
+
+// Tommygun [R87] = Time-Space Rupture Seed + Death Spikes Seed
+472|383|163
+
+// Flapper Headband [R82] = Time-Space Rupture Seed + Daisy Seed
+474|383|23
+
+// Flapper Dress [R80] = Time-Space Rupture Seed + Lava Seed
+476|383|5
+
+// Art Deco Block [R83] = Time-Space Rupture Seed + Grey Block Seed
+478|383|165
+
+// Victrola [R94] = Time-Space Rupture Seed + Olde Timey Radio Seed
+480|383|65
+
+// Big Old Sideways Arrow [R13] = Pointy Sign Seed + Orange Block Seed
+482|25|173
+
+// Big Old Up Arrow [R22] = Pointy Sign Seed + Das Red Balloon Seed
+484|25|339
+
+// Big Old Down Arrow [R13] = Pointy Sign Seed + Devil Horns Seed
+486|25|127
+
+// Blue Wristband [R34] = Race Start Flag Seed + Blueberry Seed
+488|429|197
+
+// Blue Headband [R73] = Race Start Flag Seed + Golden Halo Seed
+490|429|129
+
+// Red Sportsball Jersey [R28] = Big Old Up Arrow Seed + White Block Seed
+492|485|169
+
+// Red Sweatpants [R19] = Big Old Down Arrow Seed + White Block Seed
+494|487|169
+
+// Air Robinsons [R47] = Bubble Wrap Seed + Race End Flag Seed
+496|329|431
+
+// Hippie Sandals [R23] = Magic Egg + Wall Like An Egyptian Seed
+498|611|437
+
+// Pastel Pants [R4] = Magic Egg + Daisy Seed
+500|611|23
+
+// Pastel Suit [R11] = Magic Egg + Painting: Dink Duck Seed
+502|611|111
+
+// Bunny Mask [R8] = Magic Egg + Flowery Wallpaper Seed
+504|611|199
+
+// Bunny Ears [R16] = Magic Egg + Polka Dot Block Seed
+506|611|283
+
+// Wicker Basket [R16] = Magic Egg + Lattice Background Seed
+508|611|613
+
+// Pastel Pink Block [R5] = Magic Egg + Red Block Seed
+510|611|171
+
+// Pastel Orange Block [R10] = Magic Egg + Orange Block Seed
+512|611|173
+
+// Pastel Yellow Block [R7] = Magic Egg + Yellow Block Seed
+514|611|175
+
+// Pastel Green Block [R6] = Magic Egg + Green Block Seed
+516|611|177
+
+// Pastel Aqua Block [R6] = Magic Egg + Aqua Block Seed
+518|611|179
+
+// Pastel Blue Block [R16] = Magic Egg + Blue Block Seed
+520|611|181
+
+// Pastel Purple Block [R20] = Magic Egg + Purple Block Seed
+522|611|183
+
+// Bunny Tail [R10] = Magic Egg + Bush Seed
+524|611|193
+
+// Pinball Bumper [R53] = Blue Star Wallpaper Seed + Steel Block Seed
+526|433|187
+
+// Orange Portal [R78] = Orange Block Seed + High Tech Wall Seed
+544|173|323
+
+// Blue Portal [R84] = Blue Block Seed + High Tech Block Seed
+546|181|325
+
+// Glass Block [R7] = Glass Pane Seed + Aqua Block Seed
+548|57|179
+
+// Bookcase [R42] = Dresser Seed + Rainbow Block Seed
+550|459|309
+
+// Secret Passage [R15] = Wood Block Seed + Big Old Sideways Arrow Seed
+552|101|483
+
+// Ladder [R26] = Big Old Up Arrow Seed + Wooden Platform Seed
+554|485|103
+
+// Grey Wallpaper [R42] = Grey Block Seed + Magic Bacon Wallpaper Seed
+556|165|327
+
+// Red Wallpaper [R42] = Red Block Seed + Magic Bacon Wallpaper Seed
+558|171|327
+
+// Orange Wallpaper [R47] = Orange Block Seed + Magic Bacon Wallpaper Seed
+560|173|327
+
+// Yellow Wallpaper [R44] = Yellow Block Seed + Magic Bacon Wallpaper Seed
+562|175|327
+
+// Green Wallpaper [R43] = Green Block Seed + Magic Bacon Wallpaper Seed
+564|177|327
+
+// Aqua Wallpaper [R43] = Aqua Block Seed + Magic Bacon Wallpaper Seed
+566|179|327
+
+// Blue Wallpaper [R53] = Blue Block Seed + Magic Bacon Wallpaper Seed
+568|181|327
+
+// Purple Wallpaper [R57] = Purple Block Seed + Magic Bacon Wallpaper Seed
+570|183|327
+
+// Baneful Mask [R58] = Plumbing Seed + The Darkness Seed
+576|439|299
+
+// Happy Joy Plaque [R3] = Cave Background Seed + Door Seed
+580|15|13
+
+// Wizard Hat [R65] = Bookcase Seed + Dreamstone Block Seed
+582|551|361|586
+
+// Elvish Longbow [R39] = Ladder Seed + Big Old Sideways Arrow Seed
+594|555|483
+
+// Treasure Chest [R55] = Golden Block Seed + Dresser Seed
+596|261|459
+
+// Dragon Gate [R57] = Portcullis Seed + Venus Guytrap Seed
+598|61|455
+
+// Wizard's Robe [R60] = Purple Wallpaper Seed + Happy Joy Plaque Seed
+600|571|581
+
+// GrowBeats Headphones [R69] = Note Block Seed + Boombox Seed
+602|221|63
+
+// Golden Sword [R58] = Golden Block Seed + Picket Fence Seed
+604|261|265
+
+// Barrel [R11] = Super Crate Box Seed + Dungeon Door Seed
+606|377|31
+
+// Tavern Sign [R85] = Art Deco Block Seed + Sign Seed
+608|479|21
+
+// Lattice Background [R15] = Wooden Chair Seed + Wooden Background Seed
+612|219|53
+
+// Rotten Egg [R6] = Magic Egg + Evil Bricks Seed
+614|611|249
+
+// Cuddly Bunny [R41] = Magic Egg + Fishbowl Seed
+616|611|445|618
+
+// Copper Plumbing [R27] = Plumbing Seed + Orange Block Seed
+620|439|173
+
+// Steel Girder [R50] = Steel Block Seed + Lattice Background Seed
+622|187|613
+
+// Pinball Sproinger [R56] = Pinball Bumper Seed + Mushroom Seed
+624|527|195
+
+// Tangram Block A [R15] = Checker Wallpaper Seed + Grey Block Seed
+626|285|165|648
+
+// Chalkboard [R52] = Grey Wallpaper Seed + Painting: Yerfdog Seed
+650|557|109
+
+// School Desk [R20] = Wooden Chair Seed + Orange Block Seed
+652|219|173
+
+// Red Bricks [R7] = Red Block Seed + Bricks Seed
+654|171|117
+
+// Mailbox [R57] = Big Old Up Arrow Seed + Steel Block Seed
+656|485|187
+
+// Bulletin Board [R67] = Lattice Background Seed + Chalkboard Seed
+658|613|651
+
+// Baseball Bat [R12] = House Entrance Seed + Sign Seed
+662|225|21
+
+// Swiss Cheese Block [R21] = Pastel Yellow Block Seed + Bubble Wrap Seed
+664|515|329
+
+// Granite Block [R23] = Sandstone Seed + Stone Wall Seed
+666|333|337
+
+// Marble Block [R46] = Granite Block Seed + Dreamstone Block Seed
+668|667|361
+
+// Pencil [R8] = Yellow Block Seed + Wood Block Seed
+670|175|101
+
+// Grey Hair Bun [R19] = Grey Block Seed + Olde Timey Radio Seed
+674|165|65
+
+// Apple [R19] = Blueberry Seed + Red Bricks Seed
+676|197|655
+
+// Crimson Eagle Wings [R95] = Red Wallpaper Seed + Blue Wallpaper Seed
+678|559|569
+
+// Grimstone [R7] = Stone Wall Seed + Grass Seed
+680|337|17
+
+// Blackrock Wall [R42] = The Darkness Seed + Lava Rock Seed
+682|299|381
+
+// Iron Bars [R26] = Plumbing Seed + Death Spikes Seed
+684|439|163
+
+// Jail Door [R42] = Iron Bars Seed + Portcullis Seed
+686|685|61
+
+// Skeleton [R72] = Grey Wallpaper Seed + Ice Seed
+688|557|441
+
+// Headsman's Axe [R65] = Pencil Seed + Dragon Gate Seed
+690|671|599
+
+// Worthless Rags [R5] = Dirt Seed + Mud Glob Seed
+694|3|369
+
+// Torch [R3] = Sign Seed + Lava Seed
+696|21|5
+
+// Stinky Bucket [R32] = Barrel Seed + Swiss Cheese Block Seed
+724|607|665
+
+// Acid [R35] = Cactus Seed + Plumbing Seed
+726|331|439
+
+// Clouds [R35] = Cloudstone Block Seed + Glass Block Seed
+728|359|549
+
+// Hammer Pants [R72] = Tangram Block A Seed + Purple Wallpaper Seed
+730|627|571
+
+// Cybernetic Arm [R89] = Steel Girder Seed + Boombox Seed
+734|623|63
+
+// Neon Lights [R26] = Glass Block Seed + Purple Block Seed
+740|549|183
+
+// Card Block - Spade [R33] = Tangram Block A Seed + Das Red Balloon Seed
+742|627|339|748
+
+// Flipping Coin [R54] = Golden Block Seed + Sheet Music: Drums Seed
+752|261|427
+
+// Gambler's Visor [R12] = Green Block Seed + Glass Block Seed
+754|177|549
+
+// Slot Machine [R95] = Roulette Wheel Seed + Yellow Wallpaper Seed
+756|759|563
+
+// Roulette Wheel [R51] = Card Block - Spade Seed + Cuzco Wall Mount Seed
+758|743|253
+
+// Password Door [R77] = Jail Door Seed + Steel Block Seed
+762|687|187
+
+// Traffic Barricade [R50] = Table Lamp Seed + Ladder Seed
+774|461|555
+
+// Toxic Waste Barrel [R46] = Acid Seed + Barrel Seed
+776|727|607
+
+// Biohazard Sign [R14] = Danger Sign Seed + Orange Block Seed
+780|29|173
+
+// Antidote [R31] = Blueberry Seed + Apple Seed
+782|197|677
+
+// Tombstone [R95] = Skeleton Seed + Granite Block Seed
+784|689|667
+
+// Military Radio [R36] = Biohazard Sign Seed + Sheet Music: Sharp Piano Seed
+786|781|423
+
+// Zombie-Stompin' Boots [R15] = Grimstone Seed + Death Spikes Seed
+788|681|163
+
+// Combat Vest [R86] = Green Wallpaper Seed + Aqua Wallpaper Seed
+790|565|567
+
+// Showgirl Headdress [R34] = Blue Star Wallpaper Seed + Portcullis Seed
+794|433|61
+
+// Showgirl Top [R48] = Blue Star Wallpaper Seed + Ice Seed
+796|433|441
+
+// Showgirl Leggings [R33] = Blue Star Wallpaper Seed + Lattice Background Seed
+798|433|613
+
+// Zeta Reticulant Mask [R78] = Military Radio Seed + Grey Wallpaper Seed
+800|787|557
+
+// Red Growsaber [R126] = Neon Lights Seed + Crystal Block Seed
+802|741|263|812
+
+// Flaming Skull Mask [R75] = Skeleton Seed + Torch Seed
+816|689|697
+
+// Ripper Wings [R96] = Devil Horns Seed + Chandelier Seed
+818|127|341
+
+// Water Bucket [R12] = Toilet Seed + Aqua Block Seed
+822|107|179
+
+// Refrigerator [R85] = Ice Seed + Treasure Chest Seed
+824|441|597
+
+// Emerald Block [R135] = Crystal Block Seed + Acid Seed
+826|263|727
+
+// Ruby Block [R123] = Crystal Block Seed + Dreamstone Block Seed
+828|263|361
+
+// Coral [R22] = Ocean Rock Seed + Seaweed Seed
+832|851|847
+
+// Seaweed [R21] = Bush Seed + Water Bucket Seed
+846|193|823
+
+// Barky's Mask [R21] = Painting: Yerfdog Seed + Barrel Seed
+852|109|607
+
+// Palm Tree [R28] = Wall Like An Egyptian Seed + Pastel Green Block Seed
+854|437|517
+
+// Screen Door [R17] = Lattice Background Seed + Door Seed
+858|613|13
+
+// Wrought-Iron Fence [R24] = Portcullis Seed + Pencil Seed
+860|61|671
+
+// Velvet Rope [R40] = Copper Plumbing Seed + Big Old Sideways Arrow Seed
+862|621|483
+
+// Sproingy Eyes [R75] = Pinball Sproinger Seed + Apple Seed
+864|625|677
+
+// Cow [R89] = Refrigerator Seed + Brown Block Seed
+866|825|185
+
+// Chicken [R58] = Rubber Ducky Seed + Clouds Seed
+872|301|729
+
+// Wheat [R3] = Grass Seed + Sand Seed
+880|17|443
+
+// Barn Block [R7] = Super Crate Box Seed + Red Block Seed
+884|377|171
+
+// Barn Door [R9] = Door Seed + Barn Block Seed
+886|13|885
+
+// Red Wood Wall [R8] = Red Block Seed + Wooden Background Seed
+888|171|53
+
+// Straw Hat [R54] = Wheat Seed + Golden Halo Seed
+890|881|129
+
+// Overalls [R64] = Barrel Seed + Blue Wallpaper Seed
+892|607|569
+
+// Pitchfork [R27] = Wrought-Iron Fence Seed + Crappy Sign Seed
+894|861|27
+
+// Farmgirl Hair [R46] = Velvet Rope Seed + Poppy Seed
+896|863|189
+
+// Laboratory [R99] = Refrigerator Seed + Biohazard Sign Seed
+912|825|781
+
+// Science Station [R82] = Toxic Waste Barrel Seed + Military Radio Seed
+928|777|787
+
+// Scoreboard [R91] = Table Lamp Seed + Bulletin Board Seed
+948|461|659
+
+// E-Z Cook Oven [R76] = Stove Seed + Pastel Pink Block Seed
+952|399|511
+
+// Sugar Cane [R24] = Seaweed Seed + Happy Joy Plaque Seed
+954|847|581
+
+// Tomato [R11] = Red Bricks Seed + Mud Glob Seed
+962|655|369
+
+// Ancient Stone Gate [R17] = Portcullis Seed + Sandstone Wall Seed
+972|61|435
+
+// Achievement Block [R68] = Wood Block Seed + Art Wall Seed
+982|101|335
+
+// Street Sign [R15] = Pointy Sign Seed + Sidewalk Seed
+986|25|995
+
+// Gargoyle [R16] = Grimstone Seed + Devil Horns Seed
+988|681|127
+
+// Gothic Building [R89] = Blackrock Wall Seed + Orange Wallpaper Seed
+990|683|561
+
+// Streetlamp [R44] = Neon Lights Seed + Plumbing Seed
+992|741|439
+
+// Sidewalk [R11] = Red Bricks Seed + Grey Block Seed
+994|655|165
+
+// Tenement Building [R11] = Garbage Seed + House Entrance Seed
+996|857|225
+
+// Fire Escape [R76] = Steel Girder Seed + Ladder Seed
+998|623|555
+
+// Fire Hydrant [R54] = Water Bucket Seed + Red Wallpaper Seed
+1002|823|559
+
+// Blue Mailbox [R72] = Blue Block Seed + Mailbox Seed
+1006|181|657
+
+// Parasol [R89] = Clouds Seed + Fire Hydrant Seed
+1020|729|1003
+
+// Cowboy Hat [R23] = Sand Seed + Big Old Up Arrow Seed
+1022|443|485
+
+// War Paint [R87] = Tomato Seed + Fire Escape Seed
+1024|963|999
+
+// Face Bandana [R31] = Polka Dot Block Seed + Pastel Blue Block Seed
+1026|283|521
+
+// Sheriff's Vest [R60] = Blue Star Wallpaper Seed + Jail Door Seed
+1028|433|687
+
+// Kansas Curls [R30] = Rubber Ducky Seed + Pastel Yellow Block Seed
+1032|301|515
+
+// Corset [R62] = Pastel Aqua Block Seed + Pinball Sproinger Seed
+1034|519|625
+
+// Western Building [R12] = Sand Seed + Tenement Building Seed
+1038|443|997
+
+// Saloon Doors [R14] = Western Building Seed + Door Seed
+1040|1039|13
+
+// Western Banner [R14] = Western Building Seed + Sign Seed
+1042|1039|21
+
+// Rustic Fence [R20] = Picket Fence Seed + Crappy Sign Seed
+1046|265|27
+
+// Campfire [R63] = Cactus Seed + Fireplace Seed
+1048|331|287
+
+// Secret Of Growtopia [R24] = Secret Passage Seed + Sheet Music: Blank Seed
+1050|553|413
+
+// Transmog Crystal [R87] = Achievement Block Seed + Purple Block Seed
+1052|983|183
+
+// Pillar [R63] = Marble Block Seed + Ancient Stone Gate Seed
+1100|669|973
+
+// Sequoia Tree [R32] = Palm Tree Seed + Wooden Background Seed
+1102|855|53
+
+// Foliage [R18] = Hedge Seed + Bush Seed
+1104|1005|193
+
+// Amphora [R28] = Barrel Seed + Ancient Stone Gate Seed
+1106|607|973
+
+// Potted Daisy [R31] = Amphora Seed + Daisy Seed
+1108|1107|23
+
+// Innie Block [R30] = Bubble Wrap Seed + Pastel Blue Block Seed
+1110|329|521
+
+// Outie Block [R20] = Bubble Wrap Seed + Pastel Aqua Block Seed
+1112|329|519
+
+// Clown Shoes [R27] = Rubber Ducky Seed + Red Block Seed
+1116|301|171
+
+// Clown Pants [R18] = Polka Dot Block Seed + Happy Joy Plaque Seed
+1118|283|581
+
+// Plain White Tee [R50] = White Block Seed + White Wallpaper Seed
+1120|169|1157
+
+// Clown Nose [R14] = Tomato Seed + Happy Joy Plaque Seed
+1122|963|581
+
+// Crazy Purple Hair [R54] = Sheet Music: Sharp Bass Seed + Coral Seed
+1124|417|833
+
+// Foam Finger [R48] = Pointy Sign Seed + White Wallpaper Seed
+1126|25|1157
+
+// Rocket Thruster [R98] = E-Z Cook Oven Seed + Big Old Up Arrow Seed
+1128|953|485
+
+// Solar Panel [R33] = Potted Daisy Seed + Glass Pane Seed
+1130|1109|57
+
+// Martian Tree [R2] = Mars Rock Seed + Martian Soil Seed
+1138|1135|1133
+
+// Astronaut Pack [R53] = Super Crate Box Seed + Traffic Barricade Seed
+1140|377|775
+
+// Space Suit [R50] = Innie Block Seed + Outie Block Seed
+1142|1111|1113
+
+// Space Pants [R74] = Dice Block Seed + Grey Block Seed
+1144|457|165
+
+// Moon Boots [R60] = Pinball Sproinger Seed + Grey Block Seed
+1146|625|165
+
+// Space Connector [R43] = Copper Plumbing Seed + Gargoyle Seed
+1154|621|989
+
+// White Wallpaper [R44] = White Block Seed + Magic Bacon Wallpaper Seed
+1156|169|327
+
+// Black Wallpaper [R42] = Black Block Seed + Magic Bacon Wallpaper Seed
+1158|167|327
+
+// Porthole [R49] = Space Connector Seed + Window Seed
+1160|1155|55
+
+// Compu Panel [R95] = High Tech Block Seed + Neon Lights Seed
+1164|325|741
+
+// Hospital Bed [R31] = Bed Seed + Screen Door Seed
+1256|281|859
+
+// Surgical Sponge [R83] = High Tech Wall Seed + Biohazard Sign Seed
+1258|323|781|1270
+
+// Cutaway Building [R23] = Western Building Seed + Tenement Building Seed
+1298|1039|997
+
+// Roshambo Block [R71] = Dice Block Seed + Boulder Seed
+1300|457|945
+
+// Cow Cube [R98] = Cow Seed + Barn Door Seed
+1302|867|887
+
+// Staircase [R12] = Wooden Platform Seed + Red Wood Wall Seed
+1304|103|889
+
+// Terracotta Pot [R3] = Martian Soil Seed + Martian Tree Seed
+1306|1133|1139
+
+// Climbing Vine [R30] = Foliage Seed + Staircase Seed
+1308|1105|1305
+
+// Bushy Beard [R41] = Sequoia Tree Seed + Bush Seed
+1312|1103|193
+
+// Ponytail [R40] = School Desk Seed + Rustic Fence Seed
+1314|653|1047
+
+// Happy Sun Shirt [R42] = Solar Panel Seed + Orange Block Seed
+1316|1131|173
+
+// Cliffside [R4] = Rock Background Seed + Boulder Seed
+1322|105|945
+
+// Rock Platform [R5] = Mars Rock Seed + Cliffside Seed
+1324|1135|1323
+
+// Cave Entrance [R44] = Cliffside Seed + The Darkness Seed
+1326|1323|299
+
+// Prehistoric Palm [R45] = Palm Tree Seed + Cactus Seed
+1328|855|331
+
+// Caveman Club [R55] = Sequoia Tree Seed + Cutaway Building Seed
+1330|1103|1299
+
+// Sabertooth-Skin Toga [R25] = Pastel Orange Block Seed + Polka Dot Block Seed
+1332|513|283
+
+// Caveman Hair [R75] = Skeleton Seed + Terracotta Pot Seed
+1334|689|1307
+
+// Cavewoman Hair [R75] = Skeleton Seed + Wheat Seed
+1338|689|881
+
+// Fuzzy Bikini Top [R24] = Brown Block Seed + Outie Block Seed
+1340|185|1113
+
+// Fuzzy Bikini Bottom [R34] = Brown Block Seed + Innie Block Seed
+1342|185|1111
+
+// Ice Cube [R128] = Ice Seed + Cow Cube Seed
+1344|441|1303
+
+// Frozen DNA Fragment A [R146] = Ice Cube Seed + Cuzco Wall Mount Seed
+1346|1345|253
+
+// Frozen DNA Fragment B [R217] = Ice Cube Seed + Buffalo Seed
+1348|1345|1045
+
+// Mini Mammoth Leash [R363] = Frozen DNA Fragment B Seed + Frozen DNA Fragment A Seed
+1350|1349|1347
+
+// Whatchamacallit [R194] = Laboratory Seed + Compu Panel Seed
+1352|913|1165
+
+// Snowy Rocks [R31] = Rock Seed + Ice Seed
+1356|11|441
+
+// Candy Cane Block [R14] = White Block Seed + Red Wood Wall Seed
+1358|169|889
+
+// Candy Cane Fence [R48] = Wrought-Iron Fence Seed + Sugar Cane Seed
+1362|861|955
+
+// Snowball [R42] = Ice Seed + Water Bucket Seed
+1368|441|823
+
+// Festivus Pole [R46] = Checkpoint Seed + Wooden Platform Seed
+1370|411|103
+
+// Giant Candle [R33] = Climbing Vine Seed + Torch Seed
+1372|1309|697
+
+// Tangyuan [R15] = Water Bucket Seed + Wheat Seed
+1374|823|881
+
+// Yeonnalligi [R162] = Orange Portal Seed + Blue Portal Seed
+1376|545|547
+
+// Antler Hat [R36] = Cuzco Wall Mount Seed + Das Red Balloon Seed
+1382|253|339
+
+// Buckskin Hood [R49] = Cave Entrance Seed + Rock Platform Seed
+1386|1327|1325
+
+// Buckskin Jacket [R55] = Cave Entrance Seed + Barrel Seed
+1388|1327|607
+
+// Holiday Gift Box [R150] = Treasure Chest Seed + Slot Machine Seed
+1390|597|757
+
+// Buckskin Pants [R48] = Cave Entrance Seed + Brown Block Seed
+1392|1327|185
+
+// Mannequin [R83] = Skeleton Seed + Barrel Seed
+1420|689|607
+
+// Display Box [R45] = Glass Block Seed + Music Box Seed
+1422|549|247
+
+// For Sale Sign [R19] = Street Sign Seed + Red Block Seed
+1426|987|171
+
+// Gem Sign [R21] = Street Sign Seed + Yellow Block Seed
+1428|987|175
+
+// Shop Sign [R30] = Western Banner Seed + Pastel Blue Block Seed
+1430|1043|521
+
+// Exclamation Sign [R9] = Barn Block Seed + Martian Tree Seed
+1432|885|1139
+
+// Cash Register [R52] = Military Radio Seed + Gargoyle Seed
+1434|787|989
+
+// Open Sign [R59] = Street Sign Seed + White Wallpaper Seed
+1446|987|1157
+
+// Television [R29] = Olde Timey Radio Seed + Saloon Doors Seed
+1448|65|1041
+
+// Couch [R41] = Hospital Bed Seed + Stripey Wallpaper Seed
+1450|1257|201
+
+// Donation Box [R65] = Display Box Seed + Pastel Purple Block Seed
+1452|1423|523
+
+// Meaty Apron [R65] = Chicken Seed + Brick Background Seed
+1454|873|119
+
+// Gold Chain [R71] = Climbing Vine Seed + Golden Block Seed
+1456|1309|261
+
+// Emerald Necklace [R165] = Climbing Vine Seed + Emerald Block Seed
+1468|1309|827
+
+// Microwave [R75] = Toxic Waste Barrel Seed + Television Seed
+1472|777|1449
+
+// Ducky Pajama Pants [R46] = Rubber Ducky Seed + Dreamstone Block Seed
+1476|301|361
+
+// Ducky Pajama Top [R51] = Rubber Ducky Seed + Cloudstone Block Seed
+1478|301|359
+
+// Window Curtains [R11] = Window Seed + Pastel Pink Block Seed
+1480|55|511
+
+// Purple Stuff [R41] = Coral Seed + Purple Block Seed
+1498|833|183
+
+// Orange Stuff [R31] = Coral Seed + Orange Block Seed
+1500|833|173
+
+// Winter Scarf [R36] = Snowy Rocks Seed + Aqua Block Seed
+1502|1357|179
+
+// Old-Timey Hat [R19] = Olde Timey Radio Seed + Brown Block Seed
+1504|65|185
+
+// Black-Rimmed Glasses [R42] = The Darkness Seed + Glass Pane Seed
+1516|299|57
+
+// Diving Bell [R75] = Fishbowl Seed + Steel Block Seed
+1518|445|187
+
+// Great White Shark [R85] = Venus Guytrap Seed + White Wallpaper Seed
+1520|455|1157
+
+// Jellyfish [R56] = Neon Lights Seed + Climbing Vine Seed
+1522|741|1309
+
+// Wetsuit Pants [R48] = Black Wallpaper Seed + Yellow Block Seed
+1524|1159|175
+
+// Wetsuit Top [R63] = Black Wallpaper Seed + Swiss Cheese Block Seed
+1526|1159|665
+
+// Sunken Anchor [R51] = Steel Girder Seed + Deep Rock Seed
+1528|623|1539
+
+// Giant Clam [R56] = Treasure Chest Seed + Deep Sand Seed
+1530|597|1537
+
+// Pastel Pink Flower Block [R6] = Magic Egg + Pastel Pink Block Seed
+1554|611|511
+
+// Pastel Orange Flower Block [R11] = Magic Egg + Pastel Orange Block Seed
+1556|611|513
+
+// Pastel Yellow Flower Block [R8] = Magic Egg + Pastel Yellow Block Seed
+1558|611|515
+
+// Pastel Green Flower Block [R7] = Magic Egg + Pastel Green Block Seed
+1560|611|517
+
+// Pastel Aqua Flower Block [R7] = Magic Egg + Pastel Aqua Block Seed
+1562|611|519
+
+// Pastel Blue Flower Block [R17] = Magic Egg + Pastel Blue Block Seed
+1564|611|521
+
+// Pastel Purple Flower Block [R21] = Magic Egg + Pastel Purple Block Seed
+1566|611|523
+
+// Clapboard [R61] = Checker Wallpaper Seed + Traffic Barricade Seed
+1588|285|775
+
+// 3D Glasses [R33] = Red Glass Block Seed + Blue Glass Block Seed
+1590|1611|1613
+
+// Black Beret [R96] = Jellyfish Seed + The Darkness Seed
+1592|1523|299
+
+// Theater Curtain [R53] = Window Curtains Seed + Red Wallpaper Seed
+1594|1481|559
+
+// Marquee Block [R47] = Gem Sign Seed + Neon Lights Seed
+1598|1429|741
+
+// Director's Chair [R64] = Theater Curtain Seed + Wooden Chair Seed
+1600|1595|219
+
+// Theater Seat [R42] = Couch Seed + Martian Soil Seed
+1604|1451|1133
+
+// Movie Screen [R71] = Television Seed + Grey Wallpaper Seed
+1606|1449|557
+
+// Movie Camera [R92] = Porthole Seed + Space Connector Seed
+1608|1161|1155
+
+// Red Glass Block [R11] = Glass Block Seed + Red Block Seed
+1610|549|171
+
+// Blue Glass Block [R22] = Glass Block Seed + Blue Block Seed
+1612|549|181
+
+// Staging Platform [R229] = Game Block Seed + Mannequin Seed
+1616|1619|1421
+
+// Game Block [R146] = Slot Machine Seed + Roulette Wheel Seed
+1618|757|759
+
+// Game Flag [R168] = Game Block Seed + Race Start Flag Seed
+1622|1619|429
+
+// Coffee Maker [R91] = Science Station Seed + Exclamation Sign Seed
+1632|929|1433
+
+// Pink Hair [R56] = Happy Unicorn Block Seed + Pastel Pink Flower Block Seed
+1650|1647|1555
+
+// Aqua Hair [R57] = Happy Unicorn Block Seed + Pastel Aqua Flower Block Seed
+1652|1647|1563
+
+// Evil Brick Background [R47] = Evil Bricks Seed + Red Wallpaper Seed
+1654|249|559
+
+// Game Grave [R241] = Tombstone Seed + Game Block Seed
+1656|785|1619
+
+// Game Goal [R179] = Game Block Seed + Race End Flag Seed
+1658|1619|431
+
+// Rainbow Wings [R258] = Ruby Block Seed + Emerald Block Seed
+1672|829|827
+
+// Gateway To Adventure [R60] = Aqua Wallpaper Seed + Ancient Stone Gate Seed
+1682|567|973
+
+// Path Marker [R29] = Rustic Fence Seed + Exclamation Sign Seed
+1684|1047|1433
+
+// Pith Helmet [R81] = Pillar Seed + Sandstone Seed
+1686|1101|333
+
+// Safari Jacket [R40] = Window Curtains Seed + Path Marker Seed
+1688|1481|1685
+
+// Jodhpurs [R29] = Window Curtains Seed + Sandstone Seed
+1690|1481|333
+
+// Adventure Item - Rope [R62] = Wall Like An Egyptian Seed + Velvet Rope Seed
+1694|437|863
+
+// Adventure Item - Key [R64] = Wall Like An Egyptian Seed + Jail Door Seed
+1696|437|687
+
+// Adventure Item - Golden Idol [R63] = Wall Like An Egyptian Seed + Golden Block Seed
+1698|437|261
+
+// Adventure Item - Banana [R67] = Wall Like An Egyptian Seed + Prehistoric Palm Seed
+1700|437|1329
+
+// Adventure Item - Torch [R68] = Wall Like An Egyptian Seed + Fireplace Seed
+1702|437|287
+
+// Lazy Cobra [R86] = Sand Seed + Great White Shark Seed
+1706|443|1521
+
+// Explorer's Shovel [R59] = Pencil Seed + Sunken Anchor Seed
+1708|671|1529
+
+// Flat-top [R11] = Rock Platform Seed + Wooden Table Seed
+1716|1325|223
+
+// Starchild Makeup [R29] = Blue Star Wallpaper Seed + Checker Wallpaper Seed
+1718|433|285
+
+// Shredded T-Shirt [R13] = Devil Horns Seed + Grey Block Seed
+1720|127|165
+
+// Leopard Leggings [R14] = Pastel Orange Block Seed + Cliffside Seed
+1722|513|1323
+
+// Drumkit [R59] = Toxic Waste Barrel Seed + Sheet Music: Drums Seed
+1724|777|427
+
+// Rock N' Roll Wallpaper [R70] = Flowery Wallpaper Seed + Campfire Seed
+1726|199|1049
+
+// Stage Support [R49] = Sheet Music: Flat Bass Seed + Wrought-Iron Fence Seed
+1728|419|861
+
+// Mega Rock Speaker [R54] = Boombox Seed + Sheet Music: Flat Piano Seed
+1730|63|425
+
+// Rockin' Headband [R72] = Sheet Music: Sharp Bass Seed + Velvet Rope Seed
+1732|417|863
+
+// Knight Helmet [R57] = Grimstone Seed + Steel Girder Seed
+1736|681|623
+
+// Brown Wallpaper [R42] = Brown Block Seed + Magic Bacon Wallpaper Seed
+1744|185|327
+
+// Flamethrower [R71] = Lava Cube Seed + Rock N' Roll Wallpaper Seed
+1748|1631|1727
+
+// Guestbook [R72] = Bookcase Seed + Shop Sign Seed
+1752|551|1431
+
+// Flatscreen TV [R71] = Television Seed + Black Wallpaper Seed
+1754|1449|1159
+
+// Tiger Block [R13] = Orange Block Seed + Black Block Seed
+1756|173|167
+
+// Soda Jetpack [R60] = Bubble Wrap Seed + Toxic Waste Barrel Seed
+1762|329|777
+
+// Seagull [R44] = Rubber Ducky Seed + Seaweed Seed
+1766|301|847
+
+// Pacifier [R67] = Happy Unicorn Block Seed + Pastel Blue Flower Block Seed
+1768|1647|1565
+
+// Flower Checkpoint [R49] = Checkpoint Seed + Flowery Wallpaper Seed
+1770|411|199
+
+// Bubble Gum [R23] = Das Red Balloon Seed + Pastel Pink Block Seed
+1772|339|511
+
+// Diving Board [R22] = Wooden Platform Seed + Sandstone Seed
+1774|103|333
+
+// Diving Board Support [R71] = Diving Board Seed + Stage Support Seed
+1776|1775|1729
+
+// Legendary Wizard [R200] = Legen Seed + Dary Seed
+1790|1787|1789
+
+// Minotaur Mask [R90] = Buffalo Seed + Deep Sand Seed
+1798|1045|1537
+
+// Muscle Suit [R22] = Western Banner Seed + Pastel Yellow Flower Block Seed
+1800|1043|1559
+
+// Puzzle Brick [R25] = Outie Block Seed + Evil Bricks Seed
+1802|1113|249
+
+// Hot Pink Highlights [R30] = Neon Lights Seed + Black Block Seed
+1838|741|167
+
+// Long Black Bangs [R17] = Big Old Down Arrow Seed + Black Block Seed
+1840|487|167
+
+// Pink Pageboy [R77] = Pastel Pink Block Seed + Guestbook Seed
+1842|511|1753
+
+// Long Blonde Bangs [R14] = Sandstone Wall Seed + Big Old Down Arrow Seed
+1844|435|487
+
+// Messy Auburn Tresses [R10] = Red Bricks Seed + Crappy Sign Seed
+1846|655|27
+
+// Growbans [R46] = The Darkness Seed + Window Seed
+1848|299|55
+
+// Pink Hair Bow [R29] = Pastel Pink Flower Block Seed + Bubble Gum Seed
+1850|1555|1773
+
+// Butterfly Hair Pin [R94] = Path Marker Seed + Robot Wants Dubstep Seed
+1852|1685|255
+
+// Bee Hair Pin [R42] = Path Marker Seed + Tiger Block Seed
+1854|1685|1757
+
+// Simple Purple Dress [R41] = Pastel Purple Block Seed + Pastel Purple Flower Block Seed
+1856|523|1567
+
+// Red Sun Dress [R37] = Solar Panel Seed + Red Block Seed
+1858|1131|171
+
+// Blue Skirt [R31] = Blue Block Seed + Pastel Blue Block Seed
+1860|181|521
+
+// Checkered Dress [R44] = Race End Flag Seed + Checker Wallpaper Seed
+1862|431|285
+
+// Cardboard Box [R45] = Brown Wallpaper Seed + Happy Joy Plaque Seed
+1864|1745|581
+
+// Hanging Guytrap [R41] = Magic Bacon Wallpaper Seed + Rose Seed
+1870|327|191
+
+// Ice Calf Leash [R226] = Ice Cube Seed + Cow Cube Seed
+1946|1345|1303
+
+// Blue Star Shoes [R48] = Blue Star Wallpaper Seed + Obelisk Seed
+1954|433|975
+
+// Leather Jacket [R90] = Cow Seed + Deep Rock Seed
+2004|867|1539
+
+// Puffy Orange Jacket [R66] = Clouds Seed + Orange Stuff Seed
+2006|729|1501
+
+// Twisted Spikes [R13] = Death Spikes Seed + Evil Bricks Seed
+2008|163|249
+
+// Glowy Block [R49] = Cutaway Building Seed + Neon Lights Seed
+2010|1299|741
+
+// Dark Grey Block [R11] = Grey Block Seed + Grimstone Seed
+2012|165|681
+
+// Dark Red Block [R11] = Red Block Seed + Grimstone Seed
+2014|171|681
+
+// Dark Orange Block [R16] = Orange Block Seed + Grimstone Seed
+2016|173|681
+
+// Dark Yellow Block [R13] = Yellow Block Seed + Grimstone Seed
+2018|175|681
+
+// Dark Green Block [R12] = Green Block Seed + Grimstone Seed
+2020|177|681
+
+// Dark Aqua Block [R12] = Aqua Block Seed + Grimstone Seed
+2022|179|681
+
+// Dark Blue Block [R22] = Blue Block Seed + Grimstone Seed
+2024|181|681
+
+// Dark Purple Block [R26] = Purple Block Seed + Grimstone Seed
+2026|183|681
+
+// Dark Brown Block [R11] = Brown Block Seed + Grimstone Seed
+2028|185|681
+
+// Unearthly Chemical [R59] = Starseed + Glowy Block Seed
+2038|2035|2011
+
+// Comet Pants [R35] = Starseed + Puzzle Brick Seed
+2040|2035|1803
+
+// Comet Shirt [R29] = Starseed + For Sale Sign Seed
+2042|2035|1427
+
+// Comet Beanie [R121] = Galactic Starseed + Diving Board Support Seed
+2044|2037|1777
+
+// Weather Machine - Comet [R144] = Galactic Starseed + Victrola Seed
+2046|2037|481
+
+// Riding Comet [R106] = Galactic Starseed + Giant Clam Seed
+2048|2037|1531
+
+// Rocket Pack [R85] = Starseed + Microwave Seed
+2050|2035|1473
+
+// Cosmic Lenses [R101] = Starseed + Coffee Maker Seed
+2052|2035|1633
+
+// Cosmic Hair [R17] = Starseed + Pastel Green Flower Block Seed
+2054|2035|1561
+
+// Alien Block [R22] = Starseed + Dark Green Block Seed
+2056|2035|2021
+
+// Xenoid Block [R22] = Starseed + Dark Aqua Block Seed
+2058|2035|2023
+
+// Cosmic Skirt [R51] = Starseed + Hanging Guytrap Seed
+2060|2035|1871
+
+// Velour Space Uniform [R52] = Starseed + Theater Seat Seed
+2062|2035|1605
+
+// Riding Meteor [R121] = Galactic Starseed + Roshambo Block Seed
+2064|2037|1301
+
+// Cosmic Unicorn Bracelet [R100] = Galactic Starseed + Happy Unicorn Block Seed
+2066|2037|1647
+
+// Space Command Seat [R74] = Starseed + Director's Chair Seed
+2068|2035|1601
+
+// Ion Conduit [R57] = Starseed + Evil Brick Background Seed
+2070|2035|1655
+
+// Super Shirt - Red [R88] = Gateway To Adventure Seed + Rainbow Block Seed
+2074|1683|309|2190
+
+// Phone Booth [R80] = Password Door Seed + Amber Glass Seed
+2208|763|379
+
+// Action Hero Stubble [R84] = Tiger Block Seed + Movie Screen Seed
+2210|1757|1607
+
+// Icicles [R39] = Snowy Rocks Seed + Death Spikes Seed
+2226|1357|163
+
+// Siberian Tiger Block [R44] = Snowy Rocks Seed + Tiger Block Seed
+2228|1357|1757
+
+// Snowmobile [R85] = Mega Rock Speaker Seed + Orange Stuff Seed
+2230|1731|1501
+
+// Candy Cane Platform [R29] = Rock Platform Seed + Sugar Cane Seed
+2232|1325|955
+
+// Yeti Hat [R43] = Twisted Spikes Seed + Ice Seed
+2234|2009|441
+
+// Superpower - Heat Vision [R37] = Card Block - Spade Seed + Red Block Seed
+2292|743|171|2300
+
+// Superpower - Ice Shards [R38] = Card Block - Spade Seed + Aqua Block Seed
+2308|743|179|2316
+
+// Superpower - Super Strength [R38] = Card Block - Spade Seed + Green Block Seed
+2320|743|177|2328
+
+// Superpower - Shocking Fist [R39] = Card Block - Spade Seed + Yellow Block Seed
+2332|743|175|2340
+
+// Onisim's Genie [R74] = Galactic Starseed + Table Lamp Seed
+2484|2037|461
+
+// Helmet Of Darkness [R50] = Starseed + The Darkness Seed
+2486|2035|299
+
+// Transmatter Field [R55] = Starseed + Display Box Seed
+2488|2035|1423
+
+// Cosmic Mustache [R23] = Starseed + Twisted Spikes Seed
+2490|2035|2009
+
+// Asteroid [R54] = Starseed + Seagull Seed
+2492|2035|1767
+
+// Black Braids [R48] = Dark Blue Block Seed + Dark Purple Block Seed
+2576|2025|2027
+
+// Ginger Hair Bun [R24] = Red Wood Wall Seed + Dark Orange Block Seed
+2578|889|2017
+
+// Fashionable Dress - Blue [R71] = Jade Block Seed + Marquee Block Seed
+2648|2709|1599|2658
+
+// Stylin' Dress - Blue [R73] = Jade Block Seed + Flower Checkpoint Seed
+2660|2709|1771|2670
+
+// High Heels - Blue [R73] = Jade Block Seed + Stage Support Seed
+2672|2709|1729|2682
+
+// Fashion Purse - Blue [R68] = Jade Block Seed + Cave Entrance Seed
+2684|2709|1327|2694
+
+// Makeup [R47] = Purple Stuff Seed + Pastel Pink Flower Block Seed
+2698|1499|1555
+
+// Kansas Pigtails [R42] = Kansas Curls Seed + Pigtails Seed
+2700|1033|357
+
+// Jade Block [R24] = Dark Aqua Block Seed + Dark Green Block Seed
+2708|2023|2021
+
+// Platinum Blonde Hair [R14] = White Block Seed + Pastel Yellow Flower Block Seed
+2718|169|1559
+
+// Viney Block [R14] = Grass Seed + Dark Green Block Seed
+2786|17|2021
+
+// Viney Wallpaper [R14] = Grass Seed + Dark Aqua Block Seed
+2788|17|2023
+
+// Leaf Block [R25] = Foliage Seed + Pastel Green Flower Block Seed
+2790|1105|1561
+
+// Air Conditioner [R54] = Air Vent Seed + Solar Panel Seed
+2794|2811|1131
+
+// Air Duct [R15] = Dark Grey Block Seed + Grey Block Seed
+2796|2013|165
+
+// Texas Limestone [R9] = Stone Wall Seed + Cliffside Seed
+2808|337|1323
+
+// Air Vent [R21] = Window Seed + Air Duct Seed
+2810|55|2797
+
+// Number Block 0 [R25] = Pastel Blue Block Seed + Exclamation Sign Seed
+2814|521|1433|2832
+
+// Number 0 [R23] = Deep Rock Seed + Blue Glass Block Seed
+2834|1539|1613|2850
+
+// FC Jersey [R52] = Purple Stuff Seed + Dark Red Block Seed
+2882|1499|2015
+
+// Man U Jersey [R74] = Adventure Item - Banana Seed + Red Bricks Seed
+2884|1701|655
+
+// Stadium [R70] = Dark Grey Block Seed + Open Sign Seed
+2892|2013|1447
+
+// Crowded Stadium [R81] = Stadium Seed + Pastel Orange Flower Block Seed
+2894|2893|1557
+
+// Basketball Hoop [R106] = Streetlamp Seed + Adventure Item - Rope Seed
+2896|993|1695
+
+// Sporty Goal [R105] = Space Connector Seed + Adventure Item - Rope Seed
+2898|1155|1695
+
+// Football Helmet [R62] = Jail Door Seed + Pastel Orange Wallpaper Seed
+2902|687|2499
+
+// Growies Cap [R122] = Blue Mailbox Seed + Devilfruit Seed
+2904|1007|1965
+
+// Fishing Rod [R94] = Adventure Item - Rope Seed + Sequoia Tree Seed
+2912|1695|1103
+
+// Smarty Pants [R72] = Rainbow Block Seed + White Wallpaper Seed
+2926|309|1157
+
+// Camo Pants [R49] = Cliffside Seed + Prehistoric Palm Seed
+2928|1323|1329
+
+// Carrot Pants [R67] = Orange Stuff Seed + Green Stuff Seed
+2930|1501|2805
+
+// Golf Pants [R68] = Purple Wallpaper Seed + Checker Wallpaper Seed
+2932|571|285
+
+// Acid-Washed Skinny Jeans [R50] = Acid Seed + Blue Block Seed
+2934|727|181
+
+// Flower Sarong [R9] = Pastel Pink Flower Block Seed + Rose Seed
+2938|1555|191
+
+// Display Block [R80] = Display Box Seed + Steel Block Seed
+2946|1423|187
+
+// Ruined Sign [R33] = Crappy Sign Seed + Climbing Vine Seed
+2948|27|1309
+
+// Disguise Glasses [R21] = Secret Passage Seed + Window Seed
+2954|553|55
+
+// Wedding Dress [R47] = White Wallpaper Seed + Rose Seed
+2958|1157|191
+
+// Bridal Veil [R23] = Screen Door Seed + White Block Seed
+2960|859|169
+
+// Dark Red Wallpaper [R84] = Red Wallpaper Seed + Blackrock Wall Seed
+2962|559|683
+
+// Fountain [R70] = Gargoyle Seed + Fire Hydrant Seed
+2964|989|1003
+
+// Sink [R58] = Marble Block Seed + Water Bucket Seed
+2968|669|823
+
+// Fish Tank [R42] = Glass Pane Seed + Fishbowl Seed
+3004|57|445
+
+// Firefighter Helmet - Yellow [R31] = Big Old Up Arrow Seed + Orange Block Seed
+3048|485|173
+
+// Oxygen Mask [R63] = Air Vent Seed + Fish Tank Seed
+3050|2811|3005
+
+// Firefighter Boots [R55] = Black Wallpaper Seed + Dark Yellow Block Seed
+3052|1159|2019
+
+// Firefighter Pants - Yellow [R22] = Orange Block Seed + Big Old Down Arrow Seed
+3056|173|487
+
+// Firefighter Jacket - Yellow [R22] = Big Old Sideways Arrow Seed + Orange Block Seed
+3060|483|173
+
+// Pocket Lighter [R73] = Adventure Item - Torch Seed + Aqua Block Seed
+3062|1703|179
+
+// Water Balloon [R30] = Water Bucket Seed + Das Red Balloon Seed
+3064|823|339
+
+// Fire Hose [R93] = Toilet Seed + Lazy Cobra Seed
+3066|107|1707
+
+// Cosmic Power - Comet Strike [R89] = Galactic Starseed + Superpower - Shocking Fist Seed
+3148|2037|2333
+
+// Cosmic Power - Star Burst [R87] = Galactic Starseed + Superpower - Heat Vision Seed
+3150|2037|2293
+
+// Cosmic Power - Lunar Barrier [R88] = Galactic Starseed + Superpower - Super Strength Seed
+3152|2037|2321
+
+// Cosmic Power - Nebula Gas [R88] = Galactic Starseed + Superpower - Ice Shards Seed
+3154|2037|2309
+
+// Transdimensional Vaporizer Ray [R70] = Transmatter Field Seed + Air Duct Seed
+3156|2489|2797
+
+// Preppy Blonde Hair [R24] = Number 0 Seed + Churro Block Seed
+3164|2835|1573
+
+// Forge [R145] = Rocket Thruster Seed + Evil Brick Background Seed
+3194|1129|1655
+
+// Lumber Axe [R22] = Dark Brown Block Seed + Dark Grey Block Seed
+3206|2029|2013
+
+// Steel Axe Handle [R214] = Lazy Cobra Seed + Ice Cube Seed
+3246|1707|1345
+
+// Sock On The Wall [R39] = Red Royal Wallpaper Seed + Texas Limestone Seed
+3256|2989|2809
+
+// Steam Gear [R90] = Asteroid Seed + Steam Tubes Seed
+3258|2493|3261
+
+// Steam Tubes [R36] = Filigreed Jade Block Seed + Mission Block Seed
+3260|2711|2793
+
+// Steam Piston [R50] = Viney Block Seed + Steam Tubes Seed
+3262|2787|3261
+
+// Steam Lifter Piston [R50] = Viney Wallpaper Seed + Steam Tubes Seed
+3264|2789|3261
+
+// Steam Bellows [R59] = Filigreed Jade Block Seed + Leaf Block Seed
+3266|2711|2791
+
+// Steam Riser Bellows [R81] = Big Old Up Arrow Seed + Steam Bellows Seed
+3268|485|3267
+
+// Steam Stomper [R102] = Big Old Down Arrow Seed + Gothic Building Seed
+3270|487|991
+
+// Steam Valve [R93] = Big Old Sideways Arrow Seed + Display Block Seed
+3280|483|2947
+
+// Steam Organ [R95] = Drumkit Seed + Steam Tubes Seed
+3282|1725|3261
+
+// Steam Vent [R90] = Air Conditioner Seed + Steam Tubes Seed
+3284|2795|3261
+
+// Steam Door [R53] = Draped Filigreed Jade Block Seed + Barn Door Seed
+3286|2713|887
+
+// Steampunk Corset [R135] = Diamond-Encrusted Draped Filigreed Jade Block Seed + Steam Riser Bellows Seed
+3288|2715|3269
+
+// Steampunk Skirt [R104] = Diamond-Encrusted Draped Filigreed Jade Block Seed + Steam Lifter Piston Seed
+3290|2715|3265
+
+// Steampunk Waistcoat [R144] = Diamond-Encrusted Draped Filigreed Jade Block Seed + Steam Gear Seed
+3294|2715|3259
+
+// Steampunk Leggings [R156] = Diamond-Encrusted Draped Filigreed Jade Block Seed + Steam Stomper Seed
+3296|2715|3271
+
+// Steampunk Trenchcoat [R144] = Diamond-Encrusted Draped Filigreed Jade Block Seed + Steam Vent Seed
+3298|2715|3285
+
+// Sewing Machine [R144] = Cash Register Seed + Movie Camera Seed
+3354|1435|1609
+
+// Silkworm Toy [R40] = Happy Flower Grass Seed + Pinata Block Seed
+3410|2515|2633
+
+// Steam Collector [R47] = Steam Tubes Seed + Barrel Seed
+3412|3261|607
+
+// Steam Scrambler [R106] = Steam Tubes Seed + Dice Block Seed
+3414|3261|457
+
+// Spring Crown [R52] = Magic Egg + Golden Halo Seed
+3444|611|129
+
+// Sushi Knife [R39] = Twisted Spikes Seed + Iron Bars Seed
+3466|2009|685
+
+// Cutting Board [R28] = Diving Board Seed + Wooden Table Seed
+3470|1775|223
+
+// Rice [R23] = Viney Block Seed + Hedge Seed
+3472|2787|1005
+
+// Paint Bucket - Red [R39] = Dark Purple Block Seed + Dark Yellow Block Seed
+3478|2027|2019|3492
+
+// Steam Revolver [R87] = Steam Tubes Seed + Roulette Wheel Seed
+3496|3261|759
+
+// Steam Launcher [R92] = Steam Tubes Seed + Pinball Sproinger Seed
+3498|3261|625
+
+// Red Crayon [R72] = Green Stuff Seed + Blue Stuff Seed
+3500|2805|2807|3510
+
+// Goatee [R65] = Cuzco Wall Mount Seed + Evil Brick Background Seed
+3518|253|1655
+
+// Writing Desk [R36] = Pencil Seed + Cutting Board Seed
+3520|671|3471
+
+// Arrow Placard [R17] = Big Old Sideways Arrow Seed + Pointy Sign Seed
+3522|483|25
+
+// Orange Shirt [R53] = Orange Wallpaper Seed + Poppy Seed
+3530|561|189
+
+// Battle Pet Cage [R79] = Iron Bars Seed + Steam Door Seed
+3548|685|3287
+
+// Battle Leash [R100] = Battle Pet Cage Seed + Gem Sign Seed
+3552|3549|1429
+
+// Steam Engine [R112] = E-Z Cook Oven Seed + Steam Tubes Seed
+3558|953|3261
+
+// Cave Column [R2] = Dark Cave Background Seed + Cave Dirt Seed
+3566|3557|3565
+
+// Stalagmite [R9] = Death Spikes Seed + Cave Dirt Seed
+3568|163|3565
+
+// Stalactite [R9] = Death Spikes Seed + Dark Cave Background Seed
+3570|163|3557
+
+// Cave Platform [R7] = Cave Column Seed + Rock Platform Seed
+3572|3567|1325
+
+// Hand Torch [R4] = Torch Seed + Cave Dirt Seed
+3578|697|3565
+
+// Climbing Wall [R32] = Climbing Vine Seed + Cave Column Seed
+3586|1309|3567
+
+// Climbing Boots [R41] = Climbing Wall Seed + Stalactite Seed
+3590|3587|3571
+
+// Steam Pipe [R63] = Copper Plumbing Seed + Steam Tubes Seed
+3592|621|3261
+
+// Neutron Pack [R107] = Flatscreen TV Seed + Military Radio Seed
+3714|1755|787
+
+// Neutron Gun [R102] = Transmatter Field Seed + Steam Collector Seed
+3716|2489|3413
+
+// Ghost Jar [R38] = Aqua Cave Crystal Seed + Amphora Seed
+3720|3585|1107
+
+// Spirit Storage Unit [R81] = Adventure Item - Key Seed + Ancient Stone Gate Seed
+3724|1697|973
+
+// Steam Funnel [R49] = Steam Tubes Seed + Big Old Sideways Arrow Seed
+3752|3261|483
+
+// Steam Funnel - Up [R58] = Steam Tubes Seed + Big Old Up Arrow Seed
+3754|3261|485
+
+// Steam Funnel - Down [R49] = Steam Tubes Seed + Big Old Down Arrow Seed
+3756|3261|487
+
+// Steam Crossover [R51] = Lattice Background Seed + Steam Tubes Seed
+3766|613|3261
+
+// Steam Crank [R90] = Fire Hydrant Seed + Steam Tubes Seed
+3768|1003|3261
+
+// Mini Blocks [R4] = Sandstone Wall Seed + Terracotta Pot Seed
+3782|435|1307
+
+// Display Shelf [R78] = Writing Desk Seed + Bookcase Seed
+3794|3521|551
+
+// One-Way Block [R23] = Big Old Sideways Arrow Seed + Starseed
+3796|483|2035
+
+// Red Hair Dye [R33] = Dark Red Block Seed + Shampoo Seed
+3822|2015|3831
+
+// Green Hair Dye [R34] = Dark Green Block Seed + Shampoo Seed
+3824|2021|3831
+
+// Blue Hair Dye [R44] = Dark Blue Block Seed + Shampoo Seed
+3826|2025|3831
+
+// Black Hair Dye [R62] = The Darkness Seed + Shampoo Seed
+3828|299|3831
+
+// Shampoo [R22] = Water Bucket Seed + Aqua Cave Crystal Seed
+3830|823|3585
+
+// Beehive [R52] = Pastel Orange Flower Block Seed + Hanging Guytrap Seed
+3834|1557|1871
+
+// Sorcerer Stone [R87] = Googly-Eyed Diamond-Encrusted Draped Filigreed Jade Block Seed + Granite Block Seed
+3838|2717|667
+
+// Telephone [R42] = Music Box Seed + Black Block Seed
+3898|247|167
+
+// Wooden Sword [R105] = Happy Flower Grass Seed + Tavern Sign Seed
+3900|2515|609
+
+// Igneous Rock [R22] = Ocean Rock Seed + Swiss Cheese Block Seed
+3930|851|665
+
+// Rock Hammer [R16] = Stalagmite Seed + Cave Platform Seed
+3932|3569|3573
+
+// Rock Chisel [R21] = Arrow Placard Seed + Teeny Blocks Seed
+3934|3523|3785
+
+// Blue Hardhat [R72] = Pastel Blue Wallpaper Seed + Beehive Seed
+4128|2507|3835
+
+// Fossil Brush [R91] = Adventure Item - Torch Seed + Rice Seed
+4132|1703|3473
+
+// Surg-E [R56] = Hospital Bed Seed + Puzzle Brick Seed
+4296|1257|1803
+
+// Chemsynth Tank [R68] = Ghost Jar Seed + Water Balloon Seed
+4432|3721|3065
+
+// Chemsynth Centrifuge [R158] = Chemsynth Tank Seed + Steam Crank Seed
+4434|4433|3769
+
+// Chemsynth Replicator [R149] = Chemsynth Tank Seed + Crowded Stadium Seed
+4436|4433|2895
+
+// Chemsynth Catalyst [R155] = Chemsynth Tank Seed + Cosmic Power - Star Burst Seed
+4438|4433|3151
+
+// Chemsynth Solvent [R90] = Chemsynth Tank Seed + Shampoo Seed
+4440|4433|3831
+
+// Chemsynth Stirrer [R155] = Chemsynth Tank Seed + Steam Revolver Seed
+4442|4433|3497
+
+// Gruesome Marker [R39] = Path Marker Seed + Mutated Seed
+4446|1685|4455
+
+// Skeletal Throne [R30] = School Desk Seed + Mutated Seed
+4448|653|4455
+
+// Infected Door [R24] = Saloon Doors Seed + Mutated Seed
+4468|1041|4455
+
+// Zombie Sign [R43] = Ruined Sign Seed + Mutated Seed
+4470|2949|4455
+
+// Skull Launcher [R97] = Tommygun Seed + Mutated Seed
+4474|473|4455
+
+// Crazy Zombie Hair [R96] = Lazy Cobra Seed + Mutated Seed
+4480|1707|4455
+
+// Infected Block [R20] = Starseed + Mutated Seed
+4484|2035|4455
+
+// g-Virus Info Sign [R67] = Telephone Seed + Number Block 0 Seed
+4488|3899|2815
+
+// Rusted Chainlink Fence [R30] = Rustic Fence Seed + Mutated Seed
+4496|1047|4455
+
+// Cosmic Rain [R80] = Fountain Seed + Starseed
+4530|2965|2035
+
+// Star Iron [R74] = Wrought-Iron Fence Seed + Galactic Starseed
+4540|861|2037
+
+// Hover Platform [R15] = Rock Platform Seed + Starseed
+4546|1325|2035
+
+// Spaceman Pants [R64] = Asteroid Seed + Starseed
+4548|2493|2035
+
+// Spaceman Suit [R73] = Adventure Item - Golden Idol Seed + Starseed
+4550|1699|2035
+
+// Cardboard Egg [R999] = Magic Egg + Igneous Rock Seed
+4558|611|3931
+
+// Salt Block [R18] = Texas Limestone Seed + Stalactite Seed
+4566|2809|3571
+
+// Pepper Tree [R47] = Palm Tree Seed + Apple Seed
+4584|855|677
+
+// Onion [R59] = Foliage Seed + Venus Guytrap Seed
+4602|1105|455
+
+// Egg Wallpaper [R999] = Magic Egg + Red Royal Wallpaper Seed
+4606|611|2989
+
+// Home Oven [R88] = Air Duct Seed + Pocket Lighter Seed
+4618|2797|3063
+
+// Audio Gear [R90] = Military Radio Seed + Mega Rock Speaker Seed
+4630|787|1731
+
+// Audio Rack [R87] = Military Radio Seed + Steam Crossover Seed
+4632|787|3767
+
+// Sheet Music: Sax Note [R15] = Sheet Music: Blank Seed + Yellow Block Seed
+4634|413|175
+
+// Sheet Music: Sharp Sax [R23] = Sheet Music: Sax Note Seed + Death Spikes Seed
+4636|4635|163
+
+// Sheet Music: Flat Sax [R16] = Sheet Music: Sax Note Seed + Rock Seed
+4638|4635|11
+
+// Sheet Music: Repeat Begin [R31] = Sheet Music: Blank Seed + Race Start Flag Seed
+4640|413|429
+
+// Sheet Music: Repeat End [R42] = Sheet Music: Blank Seed + Race End Flag Seed
+4642|413|431
+
+// Lemon [R51] = Pastel Yellow Block Seed + Yellow Wallpaper Seed
+4666|515|563
+
+// Corn [R56] = Mini Blocks Seed + Beehive Seed
+4668|3783|3835
+
+// Locked Adventure Door [R73] = Adventure Item - Key Seed + Barn Door Seed
+4698|1697|887
+
+// Adventure Rope Piton [R94] = Climbing Wall Seed + Adventure Item - Rope Seed
+4700|3587|1695
+
+// Ancient Block [R21] = Ancient Stone Gate Seed + Mini Blocks Seed
+4702|973|3783
+
+// Adventure Brazier [R66] = Campfire Seed + Torch Seed
+4704|1049|697
+
+// Adventure Barrier [R52] = Wood Block Seed + Traffic Barricade Seed
+4706|101|775
+
+// Adventure Pedestal [R70] = Adventure Item - Golden Idol Seed + Cave Platform Seed
+4708|1699|3573
+
+// Adventure Idol Gate [R63] = Dragon Gate Seed + Yellow Block Seed
+4710|599|175
+
+// Angry Adventure Gorilla [R76] = Adventure Item - Banana Seed + Stalagmite Seed
+4712|1701|3569
+
+// Mystery Door [R85] = Saloon Doors Seed + Roshambo Block Seed
+4718|1041|1301
+
+// Adventure Checkpoint [R45] = Happy Joy Plaque Seed + Checkpoint Seed
+4720|581|411
+
+// The Adventure Begins [R67] = Race Start Flag Seed + Adventure Checkpoint Seed
+4722|429|4721
+
+// Red Brimmed Hat [R107] = Dark Red Wallpaper Seed + Sheet Music: Sharp Sax Seed
+4732|2963|4637
+
+// Red Formal Dress [R100] = Dark Red Wallpaper Seed + Sheet Music: Flat Sax Seed
+4734|2963|4639
+
+// Adventure Item - Crystal Goblet [R62] = Wall Like An Egyptian Seed + Fishbowl Seed
+4738|437|445
+
+// Adventure's End [R78] = Race End Flag Seed + Adventure Checkpoint Seed
+4740|431|4721
+
+// Adventure Tomb Gate [R49] = Portcullis Seed + Ruined Sign Seed
+4744|61|2949
+
+// Cherry [R23] = Blueberry Seed + Dark Red Block Seed
+4766|197|2015
+
+// Jungle Fern [R40] = Palm Tree Seed + Dark Green Block Seed
+4782|855|2021
+
+// Statue Block [R36] = Ancient Block Seed + Tangram Block A Seed
+4784|4703|627|4790
+
+// Statue Mouth [R78] = Ancient Block Seed + Dragon Gate Seed
+4792|4703|599
+
+// Jungle Pillar [R84] = Ancient Block Seed + Pillar Seed
+4796|4703|1101
+
+// Overgrown Vines [R42] = Climbing Vine Seed + Dark Green Block Seed
+4798|1309|2021
+
+// Hanging Snake [R83] = Overgrown Vines Seed + Venus Guytrap Seed
+4800|4799|455
+
+// Dark Green Wallpaper [R54] = Dark Green Block Seed + Blackrock Wall Seed
+4942|2021|683
+
+// Dark Blue Wallpaper [R64] = Dark Blue Block Seed + Blackrock Wall Seed
+4944|2025|683
+
+// Unicorn Hair [R45] = Rainbow Block Seed + Picket Fence Seed
+4954|309|265
+
+// Beanbag [R55] = Couch Seed + Bubble Wrap Seed
+4962|1451|329
+
+// Black Espadrille [R44] = Wooden Platform Seed + The Darkness Seed
+4964|103|299
+
+// Checkered Espadrille [R15] = Wooden Platform Seed + Checker Wallpaper Seed
+4966|103|285
+
+// Sports Bra [R42] = Race Start Flag Seed + Outie Block Seed
+4968|429|1113
+
+// Wedding Headdress [R57] = Portcullis Seed + Golden Block Seed
+4974|61|261
+
+// Sarong [R98] = Purple Wallpaper Seed + Golden Block Seed
+4976|571|261
+
+// Dress with Smock [R64] = Diamond-Encrusted Draped Filigreed Jade Block Seed + Stripey Wallpaper Seed
+4978|2715|201
+
+// Waistcoat and Jacket [R84] = Diamond-Encrusted Draped Filigreed Jade Block Seed + Red Royal Wallpaper Seed
+4980|2715|2989
+
+// Orange [R15] = Poppy Seed + Bush Seed
+4982|189|193
+
+// Newspaper [R58] = Western Banner Seed + White Wallpaper Seed
+5016|1043|1157
+
+// Chocolate Swirl Block [R60] = White Chocolate Block Seed + Chocolate Block Seed
+5374|5373|2565
+
+// Chocolate Cherry Block [R73] = Dark Chocolate Block Seed + Cherry Seed
+5380|2567|4767
+
+// Black Eye Drops [R65] = Eye Cleaning Solution Seed + The Darkness
+5464|5467|299
+
+// Red Eye Drops [R36] = Eye Cleaning Solution Seed + Dark Red Block Seed
+5458|5467|2015
+
+// Green Eye Drops [R37] = Eye Cleaning Solution Seed + Dark Green Block Seed
+5460|5467|2021
+
+// Blue Eye Drops [R47] = Eye Cleaning Solution Seed + Dark Blue Block Seed
+5462|5467|2025
+
+// Eye Cleaning Solution [R25] = Waterfall Seed + Aqua Cave Crystal Seed
+5466|5035|3585
+
+// Fish Medicine [R72] = Seaweed Seed + Lemon Seed
+5532|847|4667
+
+// Command - Move Left [R19] = Olde Timey Radio Seed + Pointy Sign
+5672|65|24|5680
+
+// Ice Crust Block [R19] = Glass Block Seed + Water Bucket Seed
+5602|548|823
+
+// Command - Basic Shot Left [R24] = Olde Timey Radio Seed + Exclamation Sign Seed
+5682|65|1433|5688
+
+// Command - Improved Shot Left [R75] = Military Radio Seed + Boombox Seed
+5690|787|63|5696
+
+// Command - Long Shot Left [R104] = Compu Panel Seed + Exclamation Sign Seed
+5698|1165|1433|5704
+
+// Sheet Music: Sharp Flute [R26] = Sheet Music: Flute Note Seed + Death Spikes Seed
+5728|5727|163
+
+// Sheet Music: Flat Flute [R19] = Sheet Music: Flute Note Seed + Rock Seed
+5730|5727|11
+
+// Fortune Cookie [R45] = Paper Dividing Wall Seed + Chinese Arch Seed
+5750|5743|5747
+
+// Lucky Token [R50] = Paper Dividing Wall Seed + Coin Door Seed
+5752|5743|5749
+
+// Pastel Dress - Blue [R18] = Pastel Blue Flower Block + Magic Egg
+5962|1564|611
+
+// Pastel Dress - Pink [R7] = Pastel Pink Flower Block Seed + Magic Egg
+5964|1555|611
+
+// Pastel Dress - Purple [R22] = Pastel Purple Flower Block Seed + Magic Egg
+5966|1567|611
+
+// Pastel Dress - Orange [R12] = Pastel Orange Flower Block Seed + Magic Egg
+5968|1557|611
+
+// Pastel Dress - Yellow [R9] = Pastel Yellow Flower Block Seed + Magic Egg
+5970|1559|611
+
+// Pastel Dress - Aqua [R8] = Pastel Aqua Flower Block Seed + Magic Egg
+5972|1563|611
+
+// Pastel Dress - Green [R8] = Pastel Green Flower Block Seed + Magic Egg
+5974|1561|611
+
+// Pastel Tie [R27] = Ladder Seed + Magic Egg
+5976|555|611
+
+// Egg Shell Spikes [R9] = Death Spikes Seed + Magic Egg
+5978|163|611
+
+// Hidden Eggs [R21] = Magic Egg + Happy Flower Grass
+5982|2514|611
+
+// Magic Bell [R95] = Victrola Seed + Magic Egg
+5990|481|611
+
+// Sheet Music: Sharp Spanish Guitar [R26] = Sheet Music: Spanish Guitar + Death Spikes
+6032|6031|163
+
+// Sheet Music: Flat Spanish Guitar [R19] = Sheet Music: Spanish Guitar + Rock
+6034|6031|11
+
+// Spirit Board [R53] = Puzzle Brick + Cutting Board
+6062|1803|3471
+
+// Ghost Trap [R74] = Military Radio Seed + Ghost Jar Seed
+6082|787|3721
+
+// Starship Console Panel [R83] = Starship Wall + Science Station
+6394|6389|929
+
+// Starship Porthole [R50] = Starship Floor Tile + Porthole
+6396|6387|1161
+
+// Starship Deck Ladders [R27] = Starship Floor Tile + Ladder
+6400|6387|555
+
+// Star Tools [R87] = Starship Console Panel + Teeny Blocks Seed
+6518|6395|3785|6540
+
+// Starship Floor Grill [R51] = Sharship Floor Tile + Steel Girder
+6542|6387|623
+
+// Starship Light Wall [R45] = Streetlamp + Starship Wall
+6544|993|6389
+
+// Field Grass [R72] = Stadium + Grass
+6668|2893|17
+
+// Ref's Jersey [R44] = Checker Wallpaper + Card Block
+6674|285|743
+
+// Rhinestone Evening Dress [R65] = Sandstone + Marquee Block
+6784|333|1599
+
+// Peplum Top [R27] = Pastel Blue Wallpaper + Flowery Wallpaper
+6788|2507|199
+
+// Sheet Music: Sharp Violin [R26] = Sheet Music: Violin Note + Death Spike
+6810|6809|163
+
+// Sheet Music: Flat Violin [R19] = Sheet Music: Violin Note + Rock
+6812|6809|11

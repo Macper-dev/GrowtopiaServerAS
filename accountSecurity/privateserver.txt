@@ -1,0 +1,9 @@
+false
+12345
+1c:dd:ea:8a:a6:bc
+014D7DA5C2BF3C7F05EB8F3A838C53ED
+none
+d60ad438-ebd7-4f17-8ba4-e93fb4efa1cc
+none
+none
+116.206.28.2

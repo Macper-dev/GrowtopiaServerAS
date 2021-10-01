@@ -1,0 +1,2 @@
+add_textbox|`11`0. `5so cool `0( `1imtomrux`0 )|left|100|
+add_textbox|`11`0. `5so cool `0( `1imtomrux`0 )|left|100|

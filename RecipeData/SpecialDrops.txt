@@ -1,0 +1,76 @@
+///////////////////////////
+////// SPECIAL DROPS //////
+///////////////////////////
+
+// Normal Drops
+// Base ID that can be obtained|DROP|Array of item ids that can drop the item
+
+// Event Drops
+// Base ID that can be obtained|DROPEVENT|Description|Array of item ids that can drop the item
+
+// Butterfly Leash
+882|DROP|22|16|188|190|880|962|3472
+
+// Hedges
+1004|DROP|192
+
+// Mission Block
+2792|DROP|100
+
+// Kerjigger
+1354|DROP|322|324|786|912|1128|1130|1164
+
+// Royal Walls
+2988|DROP|198|200|284|432|2962|556|558|560|562|564|566|568|570|1156|1158|1744|2496|2498|2500|2502|2504|2506|2508|4942|4944|1726|1878|1982|2788
+2990|DROP|198|200|284|432|2962|556|558|560|562|564|566|568|570|1156|1158|1744|2496|2498|2500|2502|2504|2506|2508|1726|1878|1982|2788
+
+// Celestial Dust
+5282|DROP|262|826|828|2812|3424|3606|4762|5282
+
+// Piglet Leash
+878|DROP|326
+
+// Penguin Leash
+2800|DROP|400|1344
+
+// Ride O Gold
+2574|DROP|542
+
+// Calf Leash
+870|DROP|866|1044
+
+// Chick Leash
+876|DROP|872
+
+// Reindeer
+2222|DROPEVENT|Only during Winterfest, limited.|1356
+
+// Shark Tooth
+3762|DROPEVENT|Only during Summerfest, drops 1-4.|1520
+
+// Jade Blocks
+2710|DROP|2708
+2712|DROP|2710
+2714|DROP|2712
+2716|DROP|2714
+
+// Sprockets
+3310|DROP|3258|3264|3266|3268|3270|3280|3284|3286|3412|3414|3496|3498|3558|3752|3754|3756|3766|3768|3770|3772
+
+// Teeny Block
+3784|DROP|3782
+
+// Honey
+3836|DROP|3834
+
+// Rubble
+4794|DROP|4702|4784|4786|4788|4790|4792
+
+// French Maid Dress
+6792|DROP|6164|6166|6158
+
+// Violin Notes
+6808|DROP|6396
+
+// Coconut
+7050|DROP|854
