@@ -24,7 +24,7 @@ With this you can create your own private server, by adding new features and a l
 ## Version 2.0 - 7.1 
 - Bug fixes
 - Small additional features
-## 7.2 
+## Version 7.2 
 - Fixed XP problems
 - Added achievements
 - Added ban panel
