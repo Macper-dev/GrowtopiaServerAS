@@ -3,7 +3,7 @@ With this you can create your own private server, by adding new features and a l
 <br /> Created By = Janipalen, HyperCold
 <br /> Owned by = Janipalen, Ayoyo, CantFind & HyperCold
 <br /> Base Source = GrowEarth by Lim 
-<br /> https://cdn.discordapp.com/attachments/826088613874761769/894988949188141066/unknown.png
+https://cdn.discordapp.com/attachments/826088613874761769/894988949188141066/unknown.png
 <br />
 <br /> Remember
 <br />Do not sell this application, because this application already open source.
