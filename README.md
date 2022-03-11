@@ -1,6 +1,6 @@
 # GrowtopiaAS
 With this you can create your own private server, by adding new features and a lot more!
-<br /> Developed by Janipalen#1234 | Contact for Support
+<br /> Developed by Janipalen#1000 | Contact for Support
 <br />
 <br /> Remember
 <br />Do not sell this application, because this application already open source.
