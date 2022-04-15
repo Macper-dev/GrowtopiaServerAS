@@ -1,11 +1,6 @@
 # GrowtopiaAS
 With this you can create your own private server, by adding new features and a lot more!
-<br /> Developed by Macper#1000 | Contact for Support
-<br />
-<br /> Remember
-<br />Do not sell this application, because this application already open source.
-<br />Do not change Creator name, to your own name.
-<br />If you see someone who sell the application or change creator name, Please DM Janipalen#1195
+<br /> Developed by Macper#1000
 # How to Use
 1. Download the source
 2. Go to !for code folder.
